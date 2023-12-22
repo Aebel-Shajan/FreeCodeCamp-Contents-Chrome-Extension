@@ -1,0 +1,592 @@
+[
+  {
+    "chapter title": "Bootstrap",
+    "chapter link": "https://www.freecodecamp.org/learn/front-end-development-libraries/#bootstrap",
+    "lessons": [
+      {
+        "lesson name": "Use Responsive Design with Bootstrap Fluid Containers",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/use-responsive-design-with-bootstrap-fluid-containers"
+      },
+      {
+        "lesson name": "Make Images Mobile Responsive",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/make-images-mobile-responsive"
+      },
+      {
+        "lesson name": "Center Text with Bootstrap",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/center-text-with-bootstrap"
+      },
+      {
+        "lesson name": "Create a Bootstrap Button",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/create-a-bootstrap-button"
+      },
+      {
+        "lesson name": "Create a Block Element Bootstrap Button",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/create-a-block-element-bootstrap-button"
+      },
+      {
+        "lesson name": "Taste the Bootstrap Button Color Rainbow",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/taste-the-bootstrap-button-color-rainbow"
+      },
+      {
+        "lesson name": "Call out Optional Actions with btn-info",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/call-out-optional-actions-with-btn-info"
+      },
+      {
+        "lesson name": "Warn Your Users of a Dangerous Action with btn-danger",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/warn-your-users-of-a-dangerous-action-with-btn-danger"
+      },
+      {
+        "lesson name": "Use the Bootstrap Grid to Put Elements Side By Side",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/use-the-bootstrap-grid-to-put-elements-side-by-side"
+      },
+      {
+        "lesson name": "Ditch Custom CSS for Bootstrap",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/ditch-custom-css-for-bootstrap"
+      },
+      {
+        "lesson name": "Use a span to Target Inline Elements",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/use-a-span-to-target-inline-elements"
+      },
+      {
+        "lesson name": "Create a Custom Heading",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/create-a-custom-heading"
+      },
+      {
+        "lesson name": "Add Font Awesome Icons to our Buttons",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/add-font-awesome-icons-to-our-buttons"
+      },
+      {
+        "lesson name": "Add Font Awesome Icons to all of our Buttons",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/add-font-awesome-icons-to-all-of-our-buttons"
+      },
+      {
+        "lesson name": "Responsively Style Radio Buttons",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/responsively-style-radio-buttons"
+      },
+      {
+        "lesson name": "Responsively Style Checkboxes",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/responsively-style-checkboxes"
+      },
+      {
+        "lesson name": "Style Text Inputs as Form Controls",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/style-text-inputs-as-form-controls"
+      },
+      {
+        "lesson name": "Line up Form Elements Responsively with Bootstrap",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/line-up-form-elements-responsively-with-bootstrap"
+      },
+      {
+        "lesson name": "Create a Bootstrap Headline",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/create-a-bootstrap-headline"
+      },
+      {
+        "lesson name": "House our page within a Bootstrap container-fluid div",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/house-our-page-within-a-bootstrap-container-fluid-div"
+      },
+      {
+        "lesson name": "Create a Bootstrap Row",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/create-a-bootstrap-row"
+      },
+      {
+        "lesson name": "Split Your Bootstrap Row",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/split-your-bootstrap-row"
+      },
+      {
+        "lesson name": "Create Bootstrap Wells",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/create-bootstrap-wells"
+      },
+      {
+        "lesson name": "Add Elements within Your Bootstrap Wells",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/add-elements-within-your-bootstrap-wells"
+      },
+      {
+        "lesson name": "Apply the Default Bootstrap Button Style",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/apply-the-default-bootstrap-button-style"
+      },
+      {
+        "lesson name": "Create a Class to Target with jQuery Selectors",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/create-a-class-to-target-with-jquery-selectors"
+      },
+      {
+        "lesson name": "Add id Attributes to Bootstrap Elements",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/add-id-attributes-to-bootstrap-elements"
+      },
+      {
+        "lesson name": "Label Bootstrap Wells",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/label-bootstrap-wells"
+      },
+      {
+        "lesson name": "Give Each Element a Unique id",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/give-each-element-a-unique-id"
+      },
+      {
+        "lesson name": "Label Bootstrap Buttons",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/label-bootstrap-buttons"
+      },
+      {
+        "lesson name": "Use Comments to Clarify Code",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/use-comments-to-clarify-code"
+      }
+    ]
+  },
+  {
+    "chapter title": "jQuery",
+    "chapter link": "https://www.freecodecamp.org/learn/front-end-development-libraries/#jquery",
+    "lessons": [
+      {
+        "lesson name": "Learn How Script Tags and Document Ready Work",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/jquery/learn-how-script-tags-and-document-ready-work"
+      },
+      {
+        "lesson name": "Target HTML Elements with Selectors Using jQuery",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/jquery/target-html-elements-with-selectors-using-jquery"
+      },
+      {
+        "lesson name": "Target Elements by Class Using jQuery",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/jquery/target-elements-by-class-using-jquery"
+      },
+      {
+        "lesson name": "Target Elements by id Using jQuery",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/jquery/target-elements-by-id-using-jquery"
+      },
+      {
+        "lesson name": "Delete Your jQuery Functions",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/jquery/delete-your-jquery-functions"
+      },
+      {
+        "lesson name": "Target the Same Element with Multiple jQuery Selectors",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/jquery/target-the-same-element-with-multiple-jquery-selectors"
+      },
+      {
+        "lesson name": "Remove Classes from an Element with jQuery",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/jquery/remove-classes-from-an-element-with-jquery"
+      },
+      {
+        "lesson name": "Change the CSS of an Element Using jQuery",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/jquery/change-the-css-of-an-element-using-jquery"
+      },
+      {
+        "lesson name": "Disable an Element Using jQuery",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/jquery/disable-an-element-using-jquery"
+      },
+      {
+        "lesson name": "Change Text Inside an Element Using jQuery",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/jquery/change-text-inside-an-element-using-jquery"
+      },
+      {
+        "lesson name": "Remove an Element Using jQuery",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/jquery/remove-an-element-using-jquery"
+      },
+      {
+        "lesson name": "Use appendTo to Move Elements with jQuery",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/jquery/use-appendto-to-move-elements-with-jquery"
+      },
+      {
+        "lesson name": "Clone an Element Using jQuery",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/jquery/clone-an-element-using-jquery"
+      },
+      {
+        "lesson name": "Target the Parent of an Element Using jQuery",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/jquery/target-the-parent-of-an-element-using-jquery"
+      },
+      {
+        "lesson name": "Target the Children of an Element Using jQuery",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/jquery/target-the-children-of-an-element-using-jquery"
+      },
+      {
+        "lesson name": "Target a Specific Child of an Element Using jQuery",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/jquery/target-a-specific-child-of-an-element-using-jquery"
+      },
+      {
+        "lesson name": "Target Even Elements Using jQuery",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/jquery/target-even-elements-using-jquery"
+      },
+      {
+        "lesson name": "Use jQuery to Modify the Entire Page",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/jquery/use-jquery-to-modify-the-entire-page"
+      }
+    ]
+  },
+  {
+    "chapter title": "SASS",
+    "chapter link": "https://www.freecodecamp.org/learn/front-end-development-libraries/#sass",
+    "lessons": [
+      {
+        "lesson name": "Store Data with Sass Variables",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/sass/store-data-with-sass-variables"
+      },
+      {
+        "lesson name": "Nest CSS with Sass",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/sass/nest-css-with-sass"
+      },
+      {
+        "lesson name": "Create Reusable CSS with Mixins",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/sass/create-reusable-css-with-mixins"
+      },
+      {
+        "lesson name": "Use @if and @else to Add Logic To Your Styles",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/sass/use-if-and-else-to-add-logic-to-your-styles"
+      },
+      {
+        "lesson name": "Use @for to Create a Sass Loop",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/sass/use-for-to-create-a-sass-loop"
+      },
+      {
+        "lesson name": "Use @each to Map Over Items in a List",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/sass/use-each-to-map-over-items-in-a-list"
+      },
+      {
+        "lesson name": "Apply a Style Until a Condition is Met with @while",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/sass/apply-a-style-until-a-condition-is-met-with-while"
+      },
+      {
+        "lesson name": "Split Your Styles into Smaller Chunks with Partials",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/sass/split-your-styles-into-smaller-chunks-with-partials"
+      },
+      {
+        "lesson name": "Extend One Set of CSS Styles to Another Element",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/sass/extend-one-set-of-css-styles-to-another-element"
+      }
+    ]
+  },
+  {
+    "chapter title": "React",
+    "chapter link": "https://www.freecodecamp.org/learn/front-end-development-libraries/#react",
+    "lessons": [
+      {
+        "lesson name": "Create a Simple JSX Element",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/create-a-simple-jsx-element"
+      },
+      {
+        "lesson name": "Create a Complex JSX Element",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/create-a-complex-jsx-element"
+      },
+      {
+        "lesson name": "Add Comments in JSX",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/add-comments-in-jsx"
+      },
+      {
+        "lesson name": "Render HTML Elements to the DOM",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/render-html-elements-to-the-dom"
+      },
+      {
+        "lesson name": "Define an HTML Class in JSX",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/define-an-html-class-in-jsx"
+      },
+      {
+        "lesson name": "Learn About Self-Closing JSX Tags",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/learn-about-self-closing-jsx-tags"
+      },
+      {
+        "lesson name": "Create a Stateless Functional Component",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/create-a-stateless-functional-component"
+      },
+      {
+        "lesson name": "Create a React Component",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/create-a-react-component"
+      },
+      {
+        "lesson name": "Create a Component with Composition",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/create-a-component-with-composition"
+      },
+      {
+        "lesson name": "Use React to Render Nested Components",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/use-react-to-render-nested-components"
+      },
+      {
+        "lesson name": "Compose React Components",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/compose-react-components"
+      },
+      {
+        "lesson name": "Render a Class Component to the DOM",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/render-a-class-component-to-the-dom"
+      },
+      {
+        "lesson name": "Write a React Component from Scratch",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/write-a-react-component-from-scratch"
+      },
+      {
+        "lesson name": "Pass Props to a Stateless Functional Component",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/pass-props-to-a-stateless-functional-component"
+      },
+      {
+        "lesson name": "Pass an Array as Props",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/pass-an-array-as-props"
+      },
+      {
+        "lesson name": "Use Default Props",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/use-default-props"
+      },
+      {
+        "lesson name": "Override Default Props",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/override-default-props"
+      },
+      {
+        "lesson name": "Use PropTypes to Define the Props You Expect",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/use-proptypes-to-define-the-props-you-expect"
+      },
+      {
+        "lesson name": "Access Props Using this.props",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/access-props-using-this-props"
+      },
+      {
+        "lesson name": "Review Using Props with Stateless Functional Components",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/review-using-props-with-stateless-functional-components"
+      },
+      {
+        "lesson name": "Create a Stateful Component",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/create-a-stateful-component"
+      },
+      {
+        "lesson name": "Render State in the User Interface",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/render-state-in-the-user-interface"
+      },
+      {
+        "lesson name": "Render State in the User Interface Another Way",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/render-state-in-the-user-interface-another-way"
+      },
+      {
+        "lesson name": "Set State with this.setState",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/set-state-with-this-setstate"
+      },
+      {
+        "lesson name": "Bind 'this' to a Class Method",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/bind-this-to-a-class-method"
+      },
+      {
+        "lesson name": "Use State to Toggle an Element",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/use-state-to-toggle-an-element"
+      },
+      {
+        "lesson name": "Write a Simple Counter",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/write-a-simple-counter"
+      },
+      {
+        "lesson name": "Create a Controlled Input",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/create-a-controlled-input"
+      },
+      {
+        "lesson name": "Create a Controlled Form",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/create-a-controlled-form"
+      },
+      {
+        "lesson name": "Pass State as Props to Child Components",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/pass-state-as-props-to-child-components"
+      },
+      {
+        "lesson name": "Pass a Callback as Props",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/pass-a-callback-as-props"
+      },
+      {
+        "lesson name": "Use the Lifecycle Method componentWillMount",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/use-the-lifecycle-method-componentwillmount"
+      },
+      {
+        "lesson name": "Use the Lifecycle Method componentDidMount",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/use-the-lifecycle-method-componentdidmount"
+      },
+      {
+        "lesson name": "Add Event Listeners",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/add-event-listeners"
+      },
+      {
+        "lesson name": "Optimize Re-Renders with shouldComponentUpdate",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/optimize-re-renders-with-shouldcomponentupdate"
+      },
+      {
+        "lesson name": "Introducing Inline Styles",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/introducing-inline-styles"
+      },
+      {
+        "lesson name": "Add Inline Styles in React",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/add-inline-styles-in-react"
+      },
+      {
+        "lesson name": "Use Advanced JavaScript in React Render Method",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/use-advanced-javascript-in-react-render-method"
+      },
+      {
+        "lesson name": "Render with an If-Else Condition",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/render-with-an-if-else-condition"
+      },
+      {
+        "lesson name": "Use && for a More Concise Conditional",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/use--for-a-more-concise-conditional"
+      },
+      {
+        "lesson name": "Use a Ternary Expression for Conditional Rendering",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/use-a-ternary-expression-for-conditional-rendering"
+      },
+      {
+        "lesson name": "Render Conditionally from Props",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/render-conditionally-from-props"
+      },
+      {
+        "lesson name": "Change Inline CSS Conditionally Based on Component State",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/change-inline-css-conditionally-based-on-component-state"
+      },
+      {
+        "lesson name": "Use Array.map() to Dynamically Render Elements",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/use-array-map-to-dynamically-render-elements"
+      },
+      {
+        "lesson name": "Give Sibling Elements a Unique Key Attribute",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/give-sibling-elements-a-unique-key-attribute"
+      },
+      {
+        "lesson name": "Use Array.filter() to Dynamically Filter an Array",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/use-array-filter-to-dynamically-filter-an-array"
+      },
+      {
+        "lesson name": "Render React on the Server with renderToString",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/render-react-on-the-server-with-rendertostring"
+      }
+    ]
+  },
+  {
+    "chapter title": "Redux",
+    "chapter link": "https://www.freecodecamp.org/learn/front-end-development-libraries/#redux",
+    "lessons": [
+      {
+        "lesson name": "Create a Redux Store",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/redux/create-a-redux-store"
+      },
+      {
+        "lesson name": "Get State from the Redux Store",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/redux/get-state-from-the-redux-store"
+      },
+      {
+        "lesson name": "Define a Redux Action",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/redux/define-a-redux-action"
+      },
+      {
+        "lesson name": "Define an Action Creator",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/redux/define-an-action-creator"
+      },
+      {
+        "lesson name": "Dispatch an Action Event",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/redux/dispatch-an-action-event"
+      },
+      {
+        "lesson name": "Handle an Action in the Store",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/redux/handle-an-action-in-the-store"
+      },
+      {
+        "lesson name": "Use a Switch Statement to Handle Multiple Actions",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/redux/use-a-switch-statement-to-handle-multiple-actions"
+      },
+      {
+        "lesson name": "Use const for Action Types",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/redux/use-const-for-action-types"
+      },
+      {
+        "lesson name": "Register a Store Listener",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/redux/register-a-store-listener"
+      },
+      {
+        "lesson name": "Combine Multiple Reducers",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/redux/combine-multiple-reducers"
+      },
+      {
+        "lesson name": "Send Action Data to the Store",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/redux/send-action-data-to-the-store"
+      },
+      {
+        "lesson name": "Use Middleware to Handle Asynchronous Actions",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/redux/use-middleware-to-handle-asynchronous-actions"
+      },
+      {
+        "lesson name": "Write a Counter with Redux",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/redux/write-a-counter-with-redux"
+      },
+      {
+        "lesson name": "Never Mutate State",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/redux/never-mutate-state"
+      },
+      {
+        "lesson name": "Use the Spread Operator on Arrays",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/redux/use-the-spread-operator-on-arrays"
+      },
+      {
+        "lesson name": "Remove an Item from an Array",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/redux/remove-an-item-from-an-array"
+      },
+      {
+        "lesson name": "Copy an Object with Object.assign",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/redux/copy-an-object-with-object-assign"
+      }
+    ]
+  },
+  {
+    "chapter title": "React and Redux",
+    "chapter link": "https://www.freecodecamp.org/learn/front-end-development-libraries/#react-and-redux",
+    "lessons": [
+      {
+        "lesson name": "Getting Started with React Redux",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react-and-redux/getting-started-with-react-redux"
+      },
+      {
+        "lesson name": "Manage State Locally First",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react-and-redux/manage-state-locally-first"
+      },
+      {
+        "lesson name": "Extract State Logic to Redux",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react-and-redux/extract-state-logic-to-redux"
+      },
+      {
+        "lesson name": "Use Provider to Connect Redux to React",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react-and-redux/use-provider-to-connect-redux-to-react"
+      },
+      {
+        "lesson name": "Map State to Props",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react-and-redux/map-state-to-props"
+      },
+      {
+        "lesson name": "Map Dispatch to Props",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react-and-redux/map-dispatch-to-props"
+      },
+      {
+        "lesson name": "Connect Redux to React",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react-and-redux/connect-redux-to-react"
+      },
+      {
+        "lesson name": "Connect Redux to the Messages App",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react-and-redux/connect-redux-to-the-messages-app"
+      },
+      {
+        "lesson name": "Extract Local State into Redux",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react-and-redux/extract-local-state-into-redux"
+      },
+      {
+        "lesson name": "Moving Forward From Here",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/react-and-redux/moving-forward-from-here"
+      }
+    ]
+  },
+  {
+    "chapter title": "Front End Development Libraries Projects",
+    "chapter link": "https://www.freecodecamp.org/learn/front-end-development-libraries/#front-end-development-libraries-projects",
+    "lessons": [
+      {
+        "lesson name": "Build a Random Quote Machine",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-random-quote-machine"
+      },
+      {
+        "lesson name": "Build a Markdown Previewer",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-markdown-previewer"
+      },
+      {
+        "lesson name": "Build a Drum Machine",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-drum-machine"
+      },
+      {
+        "lesson name": "Build a JavaScript Calculator",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-javascript-calculator"
+      },
+      {
+        "lesson name": "Build a 25 + 5 Clock",
+        "lesson link": "https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-25--5-clock"
+      }
+    ]
+  }
+]

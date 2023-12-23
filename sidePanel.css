@@ -1,27 +1,45 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.cdnfonts.com/css/saxmono');
 
 * {
 	margin: 0;
+	--fcc-grey: #d0d0d5; /* uk 😢 */
+	--fcc-white: #f5f6f7;
+	--fcc-blue: #1b1b32;
+	box-sizing: border-box;
 }
 
 body {
-	font-family: "Lato";
-	background-color: #E2E2E2;
+	font-family: "Lato", sans-serif;
+	background-color: var(--fcc-white);
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	padding: 1rem;
-	padding-top: 3rem;
 }
 
-#title {
-	margin-bottom: 2rem;
-	font-size: 2rem;
-}
-#contents-display {
-	background-color: white;
+#title-container {
+	background-color: var(--fcc-blue);
+	color: var(--fcc-white);
+	font-family: "saxMono", sans-serif;
+	font-size: min(2rem, 8vw);
 	width: 100%;
-	height: calc(100% - 5rem);
+	height: 3rem;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#contents-container {
+	width: 100%;
+	height: calc(100% - 3rem);
+	padding: 1rem;
+}
+
+#contents {
+	border: 3px solid var(--fcc-blue);
+	background-color: white;
+	height: 100%;
+	overflow-y: scroll;
 }
 
 #contents-list {
@@ -29,8 +47,20 @@ body {
 	padding: 0;
 }
 
-#contents-list > li {
-	padding: 1rem;
-	background-color: #F3F2F2;
+
+.contents-link {
+	text-decoration: none;
+}
+
+.contents-item {
+	padding: 0.5rem;
+	padding-left: 1rem;
+	background-color: var(--fcc-grey);
 	margin: 0;
+	color: var(--fcc-blue);
+}
+
+.contents-item:hover {
+	background-color: var(--fcc-blue);
+	color: var(--fcc-white)
 }

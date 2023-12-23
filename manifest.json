@@ -9,5 +9,12 @@
 	"side_panel": {
 		"default_path": "sidePanel.html"
 	},
-	"permissions": ["sidePanel"]
+	"permissions": ["sidePanel", "webNavigation"],
+	"action": {
+    "default_title": "Click to open panel"
+  },
+	"background": {
+		"service_worker": "service-worker.js",
+		"type": "module"
+	}
 }

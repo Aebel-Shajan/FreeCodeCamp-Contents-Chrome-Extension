@@ -4,12 +4,25 @@
 	<link rel="stylesheet" href="sidePanel.css">
 </head>
 <body>
-	<h1 id="title">FreeCodeCamp Contents</h1>
-	<div id="contents-display">
-		<ul id="contents-list">	
-			<li>hi</li>
-		</ul>
+	<template id="link-template">
+		<li>
+			<a class="contents-link" href="" target="_blank">
+				<div class="contents-item">
+
+				</div>
+			</a>
+		</li>
+	</template>
+	<div id="title-container">
+		FreeCodeCamp Contents
 	</div>
-	<script src="sidePanel.js"></script>
+	<div id="contents-container">
+		<div id="contents">
+			<ul id="contents-list">	
+			</ul>
+		</div>
+	</div>
+	
+	<script src="sidePanel.js" type="module"></script>
 </body>
 </html>

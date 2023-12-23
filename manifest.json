@@ -5,5 +5,9 @@
 	"description": "Uses side panel to provide easy access to FreeCodeCamp's curriculum.",
 	"icons": {
 		"256": "images/fcc_extension_logo.png"
-	}
+	},
+	"side_panel": {
+		"default_path": "sidePanel.html"
+	},
+	"permissions": ["sidePanel"]
 }

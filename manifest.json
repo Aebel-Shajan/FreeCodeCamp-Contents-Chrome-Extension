@@ -9,7 +9,7 @@
 	"side_panel": {
 		"default_path": "sidePanel.html"
 	},
-	"permissions": ["sidePanel", "webNavigation"],
+	"permissions": ["sidePanel", "webNavigation", "tabs", "tabGroups"],
 	"action": {
     "default_title": "Click to open panel"
   },

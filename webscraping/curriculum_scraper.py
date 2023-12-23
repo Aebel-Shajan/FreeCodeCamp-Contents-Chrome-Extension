@@ -53,11 +53,11 @@ def scrape_lessons(block):
   lesson_list = block.find_elements(By.CLASS_NAME, "map-challenges-ul")
   if (lesson_list):
     for lesson in lesson_list[0].find_elements(By.TAG_NAME, 'a'):
-      lesson_name = remove_spans(lesson)
+      lesson_title = remove_spans(lesson)
       lesson_link = lesson.get_attribute("href")
       if lesson_link:
         lessons.append({
-          "lesson name": lesson_name,
+          "lesson title": lesson_title,
           "lesson link": lesson_link
           })
   return lessons
@@ -74,13 +74,13 @@ if __name__ == "__main__":
   driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
   fcc_link = "https://www.freecodecamp.org/learn"
   driver.get(fcc_link)
-  time.sleep(1)
+  time.sleep(2) # may need to change this based on how good your internet is
   
   course_map = driver.find_element(By.CLASS_NAME, 'map-ui').find_elements(By.TAG_NAME, 'a')
   courses = scrape_courses(course_map)
   for i, course in enumerate(courses):
     driver.get(course["course link"])
-    time.sleep(1)
+    time.sleep(3)
     chapter_blocks = driver.find_elements(By.CLASS_NAME, "block")
     course["chapters"] = scrape_chapters(chapter_blocks, course["course link"])
     courses[i] = course

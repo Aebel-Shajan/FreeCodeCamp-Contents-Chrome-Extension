@@ -1,0 +1,21 @@
+[
+  {
+    "name": "MDN",
+    "link": "https://developer.mozilla.org/en-US/docs/Learn",
+    "icon link": "https://developer.mozilla.org/favicon-48x48.cbbd161b.png"
+  },
+  {
+    "name": "w3schools",
+    "link": "https://www.w3schools.com/",
+    "icon link": "https://www.w3schools.com/favicon.ico"
+  },
+  {
+    "name": "react",
+    "link": "https://react.dev/reference/react"
+  },
+  {
+    "name": "redux",
+    "link": "https://redux.js.org",
+    "icon link": "https://redux.js.org/img/favicon/favicon.ico"
+  }
+]

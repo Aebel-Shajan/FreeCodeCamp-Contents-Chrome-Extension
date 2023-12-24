@@ -3,14 +3,18 @@
 <head>
 	<title>FreeCodeCamp Contents Panel</title>
 	<link rel="stylesheet" href="sidePanel.css">
+	<link rel="stylesheet" 
+href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 </head>
 
 <body>
 	<template id="link-template">
-		<li>
-			<a class="contents-link" href="" target="_blank">
-				<div class="contents-item">
-
+		<li class="content-item">
+			<button class="content-expand" type="button">
+				<i class="fa-solid fa-circle-plus"></i>
+			</button>
+			<a class="content-link" href="" target="_blank">
+				<div class="content-text">
 				</div>
 			</a>
 		</li>

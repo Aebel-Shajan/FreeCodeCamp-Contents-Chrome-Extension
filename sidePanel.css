@@ -27,6 +27,7 @@ body {
 	display: flex;
 	align-items: center;
 	justify-content: center;
+	cursor: pointer;
 }
 
 #contents-container {
@@ -47,20 +48,41 @@ body {
 	padding: 0;
 }
 
-
-.contents-link {
-	text-decoration: none;
+.content-item {
+	display:flex;
 }
 
-.contents-item {
+.content-expand {
+	border: none;
+	background-color: var(--fcc-grey);
+	width: 1.5rem;
+	padding: 0;
+}
+
+.content-link {
+	text-decoration: none;
+	width: 100%;
+}
+
+.content-text {
 	padding: 0.5rem;
-	padding-left: 1rem;
 	background-color: var(--fcc-grey);
 	margin: 0;
 	color: var(--fcc-blue);
 }
 
-.contents-item:hover {
+.content-item:hover .content-expand:hover {
+	cursor: pointer;
+	background-color: white;
+	color: black
+}
+
+.content-item:hover .content-text {
 	background-color: var(--fcc-blue);
 	color: var(--fcc-white)
+}
+
+.content-text:hover {
+	background-color: white;
+	color: black
 }

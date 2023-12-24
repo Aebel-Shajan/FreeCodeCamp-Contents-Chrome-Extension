@@ -1,4 +1,28 @@
 import curriculum from './webscraping/curriculum.json' assert { type: 'json' };
+import resources from './webscraping/resources.json' assert {type: 'json'};
+
+for (let i = 0; i < resources.length; i++) {
+	let resource = resources[i];
+	let clickableSquare = document.createElement('div');
+	clickableSquare.className = "resource-div"
+	clickableSquare.addEventListener('click', (event)=> {
+			openTab(event, resource["link"]);
+		}) 
+	if (resource.hasOwnProperty("icon link")) {
+		let img = document.createElement('img');
+		img.src = resource["icon link"];
+		img.className = "resource-icon";
+		clickableSquare.appendChild(img);
+	} else {
+		let svg = document.createElement('svg');
+		svg.className = "resource-svg";
+		let text = document.createElement('text');
+		text.innerText = resource["name"];
+		svg.appendChild(text);
+		clickableSquare.appendChild(svg);
+	}
+	document.querySelector("#resources").appendChild(clickableSquare);
+}
 
 let toggleButtons = document.querySelectorAll(".toggle-buttons");
 toggleButtons.forEach((option) => {
@@ -13,6 +37,7 @@ toggleButtons.forEach((option) => {
 		})
 	})
 })
+
 
 let contentList = document.body.querySelector("#contents-list");
 let linkTemplate = document.body.querySelector("#link-template");
@@ -116,8 +141,7 @@ function updateSidePanel() {
 // Call the function to initially populate the side panel
 updateSidePanel();
 
-function openInTabGroup(event) {
-	event.preventDefault();
+function openInTabGroup(urlToOpen) {
 	chrome.tabGroups.query({ title: "FCC Research" }, function (groups) {
 		if (groups.length > 0) {
 			groupId = groups[0].id;
@@ -126,7 +150,7 @@ function openInTabGroup(event) {
 		}
 	});
 	// 😨 clean in future
-	chrome.tabs.create({ url: event.target.parentElement.href, active: true }, function (tab) {
+	chrome.tabs.create({ url: urlToOpen, active: true }, function (tab) {
 		if (groupId === null) {
 			chrome.tabs.group({ tabIds: tab.id }, function (newGroupId) {
 				groupId = newGroupId;
@@ -136,13 +160,13 @@ function openInTabGroup(event) {
 		} else {
 			chrome.tabGroups.update(groupId, {collapsed: false });
 			const overWriteTab = document.querySelector(".common-tabs-toggle").id;
-			let url = new URL(event.target.parentElement.href);
+			let url = new URL(urlToOpen);
 			let baseUrl = url.protocol + '//' + url.host + '/*';
 			if (overWriteTab === "on") {
 				chrome.tabs.query({ groupId: groupId, url: baseUrl }, function(tabs) {
 					if (tabs.length > 0) {
 						chrome.tabs.remove(tab.id);
-						chrome.tabs.update(tabs[0].id, {url: event.target.parentElement.href, active: true})
+						chrome.tabs.update(tabs[0].id, {url: urlToOpen, active: true})
 					} else {
 						chrome.tabs.group({ groupId: groupId, tabIds: tab.id });
 					};
@@ -154,21 +178,23 @@ function openInTabGroup(event) {
 	});
 }
 
+function openTab(event, urlToOpen){
+	event.preventDefault();
+	const toNewTab = document.querySelector(".tab-toggle").id
+		if (toNewTab === "on") {
+			openInTabGroup(urlToOpen)
+		} else if (toNewTab === "off") {
+			chrome.tabs.query({ active: true, currentWindow: true }, function (tabs) {
+				var tab = tabs[0];
+				chrome.tabs.update(tab.id, { url: urlToOpen });
+			});
+		}
+}
+
 function createContentItem(title, link) {
 	let contentItem = linkTemplate.content.cloneNode(true);
 	contentItem.querySelector('.content-text').innerText = title;
 	contentItem.querySelector('.content-link').setAttribute("href", link);
-	contentItem.querySelector('.content-link').addEventListener('click', (event) => {
-		const toNewTab = document.querySelector(".tab-toggle").id
-		if (toNewTab === "on") {
-			openInTabGroup(event)
-		} else if (toNewTab === "off") {
-			event.preventDefault();
-			chrome.tabs.query({ active: true, currentWindow: true }, function (tabs) {
-				var tab = tabs[0];
-				chrome.tabs.update(tab.id, { url: event.target.parentElement.href });
-			});
-		}
-	});
+	contentItem.querySelector('.content-link').addEventListener('click', event => openTab(event, event.target.parentElement.href));
 	return contentItem
 }

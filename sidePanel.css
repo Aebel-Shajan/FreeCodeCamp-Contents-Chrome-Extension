@@ -42,6 +42,9 @@ body {
 	align-items: center;
 	padding-bottom: 0.5rem;
 }
+.option-text {
+	width: 40vw;
+}
 .fcc-button {
 	color: var(--fcc-blue);
 	background-color: var(--fcc-grey);
@@ -56,10 +59,13 @@ body {
 	background-color: var(--fcc-blue);
 	cursor:unset;
 }
+.hide {
+	display: none;
+}
 
 #contents-container {
 	width: 100%;
-	height: calc(100% - 9rem);/********************/
+	height: calc(100% - 13rem);/********************/
 	padding: 1rem;
 	min-width: 6rem;
 }
@@ -104,4 +110,33 @@ body {
 .content-text:hover {
 	background-color: white;
 	color: black
+}
+
+#resource-container {
+	width: 100%;
+	padding: 1rem;
+	padding-top: 0rem;
+	height: 4rem;/********************/
+}
+#resources {
+	border: 3px solid var(--fcc-blue);
+	background-color: white;
+	display: flex;
+}
+.resource-div {
+	width: max-content;
+}
+.resource-icon {
+	height: 100%;
+	width: 3rem;
+	cursor: pointer;
+}
+.resource-svg {
+	height: 100%;
+	width: 3rem;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: var(--fcc-grey);
+	cursor: pointer;
 }

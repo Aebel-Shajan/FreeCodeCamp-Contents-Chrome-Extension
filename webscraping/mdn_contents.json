@@ -1,0 +1,1531 @@
+[
+  {
+    "title": "Complete beginners start here!",
+    "link": "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web",
+    "children": [
+      {
+        "title": "Getting started with the web",
+        "link": "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web",
+        "children": [
+          {
+            "title": "Getting started with the web",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web",
+            "children": []
+          },
+          {
+            "title": "Installing basic software",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Installing_basic_software",
+            "children": []
+          },
+          {
+            "title": "What will your website look like?",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like",
+            "children": []
+          },
+          {
+            "title": "Dealing with files",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files",
+            "children": []
+          },
+          {
+            "title": "HTML basics",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics",
+            "children": []
+          },
+          {
+            "title": "CSS basics",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics",
+            "children": []
+          },
+          {
+            "title": "JavaScript basics",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
+            "children": []
+          },
+          {
+            "title": "Publishing your website",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website",
+            "children": []
+          },
+          {
+            "title": "How the web works",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "HTML \u2014 Structuring the web",
+    "link": "https://developer.mozilla.org/en-US/docs/Learn/HTML",
+    "children": [
+      {
+        "title": "Introduction to HTML",
+        "link": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML",
+        "children": [
+          {
+            "title": "Introduction to HTML",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML",
+            "children": []
+          },
+          {
+            "title": "Getting started with HTML",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started",
+            "children": []
+          },
+          {
+            "title": "What's in the head? Metadata in HTML",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML",
+            "children": []
+          },
+          {
+            "title": "HTML text fundamentals",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals",
+            "children": []
+          },
+          {
+            "title": "Creating hyperlinks",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks",
+            "children": []
+          },
+          {
+            "title": "Advanced text formatting",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting",
+            "children": []
+          },
+          {
+            "title": "Document and website structure",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure",
+            "children": []
+          },
+          {
+            "title": "Debugging HTML",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML",
+            "children": []
+          },
+          {
+            "title": "Marking up a letter",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter",
+            "children": []
+          },
+          {
+            "title": "Structuring a page of content",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Structuring_a_page_of_content",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Multimedia and embedding",
+        "link": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding",
+        "children": [
+          {
+            "title": "Multimedia and embedding",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding",
+            "children": []
+          },
+          {
+            "title": "Images in HTML",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML",
+            "children": []
+          },
+          {
+            "title": "Video and audio content",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content",
+            "children": []
+          },
+          {
+            "title": "From object to iframe \u2014 other embedding technologies",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies",
+            "children": []
+          },
+          {
+            "title": "Adding vector graphics to the web",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web",
+            "children": []
+          },
+          {
+            "title": "Responsive images",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images",
+            "children": []
+          },
+          {
+            "title": "Mozilla splash page",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Mozilla_splash_page",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "HTML tables",
+        "link": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables",
+        "children": [
+          {
+            "title": "HTML tables",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables",
+            "children": []
+          },
+          {
+            "title": "HTML table basics",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics",
+            "children": []
+          },
+          {
+            "title": "HTML table advanced features and accessibility",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Advanced",
+            "children": []
+          },
+          {
+            "title": "Structuring planet data",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Structuring_planet_data",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "CSS \u2014 Styling the web",
+    "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS",
+    "children": [
+      {
+        "title": "CSS first steps",
+        "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps",
+        "children": [
+          {
+            "title": "CSS first steps overview",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps",
+            "children": []
+          },
+          {
+            "title": "What is CSS?",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS",
+            "children": []
+          },
+          {
+            "title": "Getting started with CSS",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started",
+            "children": []
+          },
+          {
+            "title": "How CSS is structured",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_is_structured",
+            "children": []
+          },
+          {
+            "title": "How CSS works",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_works",
+            "children": []
+          },
+          {
+            "title": "Styling a biography page",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Styling_a_biography_page",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "CSS building blocks",
+        "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks",
+        "children": [
+          {
+            "title": "CSS building blocks",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks",
+            "children": []
+          },
+          {
+            "title": "CSS selectors",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors",
+            "children": []
+          },
+          {
+            "title": "Type, class, and ID selectors",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Type_Class_and_ID_Selectors",
+            "children": []
+          },
+          {
+            "title": "Attribute selectors",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Attribute_selectors",
+            "children": []
+          },
+          {
+            "title": "Pseudo-classes and pseudo-elements",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Pseudo-classes_and_pseudo-elements",
+            "children": []
+          },
+          {
+            "title": "Combinators",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Combinators",
+            "children": []
+          },
+          {
+            "title": "Cascade, specificity, and inheritance",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance",
+            "children": []
+          },
+          {
+            "title": "Cascade layers",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_layers",
+            "children": []
+          },
+          {
+            "title": "The box model",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model",
+            "children": []
+          },
+          {
+            "title": "Backgrounds and borders",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Backgrounds_and_borders",
+            "children": []
+          },
+          {
+            "title": "Handling different text directions",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Handling_different_text_directions",
+            "children": []
+          },
+          {
+            "title": "Overflowing content",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Overflowing_content",
+            "children": []
+          },
+          {
+            "title": "CSS values and units",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units",
+            "children": []
+          },
+          {
+            "title": "Sizing items in CSS",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Sizing_items_in_CSS",
+            "children": []
+          },
+          {
+            "title": "Images, media, and form elements",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Images_media_form_elements",
+            "children": []
+          },
+          {
+            "title": "Styling tables",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Styling_tables",
+            "children": []
+          },
+          {
+            "title": "Debugging CSS",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Debugging_CSS",
+            "children": []
+          },
+          {
+            "title": "Organizing your CSS",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing",
+            "children": []
+          },
+          {
+            "title": "Fundamental CSS comprehension",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Fundamental_CSS_comprehension",
+            "children": []
+          },
+          {
+            "title": "Creating fancy letterheaded paper",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Creating_fancy_letterheaded_paper",
+            "children": []
+          },
+          {
+            "title": "A cool-looking box",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/A_cool_looking_box",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Styling text",
+        "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text",
+        "children": [
+          {
+            "title": "CSS styling text",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text",
+            "children": []
+          },
+          {
+            "title": "Fundamental text and font styling",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals",
+            "children": []
+          },
+          {
+            "title": "Styling lists",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_lists",
+            "children": []
+          },
+          {
+            "title": "Styling links",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_links",
+            "children": []
+          },
+          {
+            "title": "Web fonts",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts",
+            "children": []
+          },
+          {
+            "title": "Typesetting a community school homepage",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Typesetting_a_homepage",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "CSS layout",
+        "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout",
+        "children": [
+          {
+            "title": "CSS layout",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout",
+            "children": []
+          },
+          {
+            "title": "Introduction to CSS layout",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Introduction",
+            "children": []
+          },
+          {
+            "title": "Normal Flow",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow",
+            "children": []
+          },
+          {
+            "title": "Flexbox",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox",
+            "children": []
+          },
+          {
+            "title": "Grids",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids",
+            "children": []
+          },
+          {
+            "title": "Floats",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats",
+            "children": []
+          },
+          {
+            "title": "Positioning",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning",
+            "children": []
+          },
+          {
+            "title": "Multiple-column layout",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Multiple-column_Layout",
+            "children": []
+          },
+          {
+            "title": "Responsive design",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design",
+            "children": []
+          },
+          {
+            "title": "Beginner's guide to media queries",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Media_queries",
+            "children": []
+          },
+          {
+            "title": "Legacy layout methods",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Legacy_Layout_Methods",
+            "children": []
+          },
+          {
+            "title": "Supporting older browsers",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Supporting_Older_Browsers",
+            "children": []
+          },
+          {
+            "title": "Fundamental layout comprehension",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Fundamental_Layout_Comprehension",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "JavaScript \u2014 Dynamic client-side scripting",
+    "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript",
+    "children": [
+      {
+        "title": "JavaScript first steps",
+        "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps",
+        "children": [
+          {
+            "title": "JavaScript First Steps",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps",
+            "children": []
+          },
+          {
+            "title": "What is JavaScript?",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript",
+            "children": []
+          },
+          {
+            "title": "A first splash into JavaScript",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash",
+            "children": []
+          },
+          {
+            "title": "What went wrong? Troubleshooting JavaScript",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_went_wrong",
+            "children": []
+          },
+          {
+            "title": "Storing the information you need \u2014 Variables",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables",
+            "children": []
+          },
+          {
+            "title": "Basic math in JavaScript \u2014 numbers and operators",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math",
+            "children": []
+          },
+          {
+            "title": "Handling text \u2014 strings in JavaScript",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Strings",
+            "children": []
+          },
+          {
+            "title": "Useful string methods",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Useful_string_methods",
+            "children": []
+          },
+          {
+            "title": "Arrays",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays",
+            "children": []
+          },
+          {
+            "title": "Silly story generator",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Silly_story_generator",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "JavaScript building blocks",
+        "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks",
+        "children": [
+          {
+            "title": "JavaScript building blocks",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks",
+            "children": []
+          },
+          {
+            "title": "Making decisions in your code \u2014 conditionals",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals",
+            "children": []
+          },
+          {
+            "title": "Looping code",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code",
+            "children": []
+          },
+          {
+            "title": "Functions \u2014 reusable blocks of code",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions",
+            "children": []
+          },
+          {
+            "title": "Build your own function",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Build_your_own_function",
+            "children": []
+          },
+          {
+            "title": "Function return values",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Return_values",
+            "children": []
+          },
+          {
+            "title": "Introduction to events",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events",
+            "children": []
+          },
+          {
+            "title": "Image gallery",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Image_gallery",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Introducing JavaScript objects",
+        "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects",
+        "children": [
+          {
+            "title": "Introducing JavaScript objects",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects",
+            "children": []
+          },
+          {
+            "title": "JavaScript object basics",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics",
+            "children": []
+          },
+          {
+            "title": "Object prototypes",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes",
+            "children": []
+          },
+          {
+            "title": "Object-oriented programming",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_programming",
+            "children": []
+          },
+          {
+            "title": "Classes in JavaScript",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Classes_in_JavaScript",
+            "children": []
+          },
+          {
+            "title": "Working with JSON",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON",
+            "children": []
+          },
+          {
+            "title": "Object building practice",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_building_practice",
+            "children": []
+          },
+          {
+            "title": "Adding features to our bouncing balls demo",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Adding_bouncing_balls_features",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Asynchronous JavaScript",
+        "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous",
+        "children": [
+          {
+            "title": "Asynchronous JavaScript",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous",
+            "children": []
+          },
+          {
+            "title": "Introducing asynchronous JavaScript",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing",
+            "children": []
+          },
+          {
+            "title": "How to use promises",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises",
+            "children": []
+          },
+          {
+            "title": "How to implement a promise-based API",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Implementing_a_promise-based_API",
+            "children": []
+          },
+          {
+            "title": "Introducing workers",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing_workers",
+            "children": []
+          },
+          {
+            "title": "Sequencing animations",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Sequencing_animations",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Client-side web APIs",
+        "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs",
+        "children": [
+          {
+            "title": "Client-side web APIs",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs",
+            "children": []
+          },
+          {
+            "title": "Introduction to web APIs",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction",
+            "children": []
+          },
+          {
+            "title": "Manipulating documents",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents",
+            "children": []
+          },
+          {
+            "title": "Fetching data from the server",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data",
+            "children": []
+          },
+          {
+            "title": "Third-party APIs",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Third_party_APIs",
+            "children": []
+          },
+          {
+            "title": "Drawing graphics",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Drawing_graphics",
+            "children": []
+          },
+          {
+            "title": "Video and Audio APIs",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs",
+            "children": []
+          },
+          {
+            "title": "Client-side storage",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Web forms \u2014 Working with user data",
+    "link": "https://developer.mozilla.org/en-US/docs/Learn/Forms",
+    "children": [
+      {
+        "title": "Core forms learning pathway",
+        "link": "https://developer.mozilla.org/en-US/docs/Learn/Forms",
+        "children": [
+          {
+            "title": "Web forms \u2014 Working with user data",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Forms",
+            "children": []
+          },
+          {
+            "title": "Your first form",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form",
+            "children": []
+          },
+          {
+            "title": "How to structure a web form",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Forms/How_to_structure_a_web_form",
+            "children": []
+          },
+          {
+            "title": "Basic native form controls",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Forms/Basic_native_form_controls",
+            "children": []
+          },
+          {
+            "title": "The HTML5 input types",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Forms/HTML5_input_types",
+            "children": []
+          },
+          {
+            "title": "Other form controls",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Forms/Other_form_controls",
+            "children": []
+          },
+          {
+            "title": "Styling web forms",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Forms/Styling_web_forms",
+            "children": []
+          },
+          {
+            "title": "Advanced form styling",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Forms/Advanced_form_styling",
+            "children": []
+          },
+          {
+            "title": "UI pseudo-classes",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Forms/UI_pseudo-classes",
+            "children": []
+          },
+          {
+            "title": "Client-side form validation",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation",
+            "children": []
+          },
+          {
+            "title": "Sending form data",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Advanced forms articles",
+        "link": "https://developer.mozilla.org/en-US/docs/Learn/Forms/How_to_build_custom_form_controls",
+        "children": [
+          {
+            "title": "How to build custom form controls",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Forms/How_to_build_custom_form_controls",
+            "children": []
+          },
+          {
+            "title": "Sending forms through JavaScript",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_forms_through_JavaScript",
+            "children": []
+          },
+          {
+            "title": "CSS property compatibility table for form controls",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Forms/Property_compatibility_table_for_form_controls",
+            "children": []
+          },
+          {
+            "title": "HTML forms in legacy browsers",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Forms/HTML_forms_in_legacy_browsers",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Accessibility \u2014 Make the web usable by everyone",
+    "link": "https://developer.mozilla.org/en-US/docs/Learn/Accessibility",
+    "children": [
+      {
+        "title": "Accessibility guides",
+        "link": "https://developer.mozilla.org/en-US/docs/Learn/Accessibility",
+        "children": [
+          {
+            "title": "Accessibility",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Accessibility",
+            "children": []
+          },
+          {
+            "title": "What is accessibility?",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility",
+            "children": []
+          },
+          {
+            "title": "HTML: A good basis for accessibility",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML",
+            "children": []
+          },
+          {
+            "title": "CSS and JavaScript accessibility best practices",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Accessibility/CSS_and_JavaScript",
+            "children": []
+          },
+          {
+            "title": "WAI-ARIA basics",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Accessibility/WAI-ARIA_basics",
+            "children": []
+          },
+          {
+            "title": "Accessible multimedia",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Accessibility/Multimedia",
+            "children": []
+          },
+          {
+            "title": "Mobile accessibility",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Accessibility/Mobile",
+            "children": []
+          },
+          {
+            "title": "Assessment: Accessibility troubleshooting",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Accessibility/Accessibility_troubleshooting",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Performance \u2014 Making websites fast and responsive",
+    "link": "https://developer.mozilla.org/en-US/docs/Learn/Performance",
+    "children": [
+      {
+        "title": "Performance guides",
+        "link": "https://developer.mozilla.org/en-US/docs/Learn/Performance",
+        "children": [
+          {
+            "title": "Web performance",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Performance",
+            "children": []
+          },
+          {
+            "title": "The \"why\" of web performance",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Performance/why_web_performance",
+            "children": []
+          },
+          {
+            "title": "What is web performance?",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Performance/What_is_web_performance",
+            "children": []
+          },
+          {
+            "title": "Perceived performance",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Performance/Perceived_performance",
+            "children": []
+          },
+          {
+            "title": "Measuring performance",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Performance/Measuring_performance",
+            "children": []
+          },
+          {
+            "title": "Multimedia: Images",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Performance/Multimedia",
+            "children": []
+          },
+          {
+            "title": "Multimedia: video",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Performance/video",
+            "children": []
+          },
+          {
+            "title": "JavaScript performance optimization",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Performance/JavaScript",
+            "children": []
+          },
+          {
+            "title": "HTML performance optimization",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Performance/HTML",
+            "children": []
+          },
+          {
+            "title": "CSS performance optimization",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Performance/CSS",
+            "children": []
+          },
+          {
+            "title": "The business case for web performance",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Performance/business_case_for_performance",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "MathML \u2014 Writing mathematics with MathML",
+    "link": "https://developer.mozilla.org/en-US/docs/Learn/MathML",
+    "children": [
+      {
+        "title": "MathML first steps",
+        "link": "https://developer.mozilla.org/en-US/docs/Learn/MathML/First_steps",
+        "children": [
+          {
+            "title": "MathML first steps overview",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/MathML/First_steps",
+            "children": []
+          },
+          {
+            "title": "Getting started with MathML",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/MathML/First_steps/Getting_started",
+            "children": []
+          },
+          {
+            "title": "MathML Text Containers",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/MathML/First_steps/Text_containers",
+            "children": []
+          },
+          {
+            "title": "MathML fractions and roots",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/MathML/First_steps/Fractions_and_roots",
+            "children": []
+          },
+          {
+            "title": "MathML scripted elements",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/MathML/First_steps/Scripts",
+            "children": []
+          },
+          {
+            "title": "MathML tables",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/MathML/First_steps/Tables",
+            "children": []
+          },
+          {
+            "title": "Three famous mathematical formulas",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/MathML/First_steps/Three_famous_mathematical_formulas",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Games \u2014 Developing games for the web",
+    "link": "https://developer.mozilla.org/en-US/docs/Games",
+    "children": [
+      {
+        "title": "Guides and tutorials",
+        "link": "https://developer.mozilla.org/en-US/docs/Games/Introduction",
+        "children": [
+          {
+            "title": "Introduction to game development for the Web",
+            "link": "https://developer.mozilla.org/en-US/docs/Games/Introduction",
+            "children": []
+          },
+          {
+            "title": "Techniques for game development",
+            "link": "https://developer.mozilla.org/en-US/docs/Games/Techniques",
+            "children": []
+          },
+          {
+            "title": "Tutorials",
+            "link": "https://developer.mozilla.org/en-US/docs/Games/Tutorials",
+            "children": []
+          },
+          {
+            "title": "Publishing games",
+            "link": "https://developer.mozilla.org/en-US/docs/Games/Publishing_games",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Tools and testing",
+    "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing",
+    "children": [
+      {
+        "title": "Client-side web development tools",
+        "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools",
+        "children": [
+          {
+            "title": "Understanding client-side web development tools",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools",
+            "children": []
+          },
+          {
+            "title": "Client-side tooling overview",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Overview",
+            "children": []
+          },
+          {
+            "title": "Command line crash course",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line",
+            "children": []
+          },
+          {
+            "title": "Package management basics",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Package_management",
+            "children": []
+          },
+          {
+            "title": "Introducing a complete toolchain",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Introducing_complete_toolchain",
+            "children": []
+          },
+          {
+            "title": "Deploying our app",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Deployment",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Introduction to client-side frameworks",
+        "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Introduction",
+        "children": [
+          {
+            "title": "Introduction to client-side frameworks",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Introduction",
+            "children": []
+          },
+          {
+            "title": "Framework main features",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Main_features",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "React",
+        "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started",
+        "children": [
+          {
+            "title": "Getting started with React",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started",
+            "children": []
+          },
+          {
+            "title": "Beginning our React todo list",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_todo_list_beginning",
+            "children": []
+          },
+          {
+            "title": "Componentizing our React app",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_components",
+            "children": []
+          },
+          {
+            "title": "React interactivity: Events and state",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_interactivity_events_state",
+            "children": []
+          },
+          {
+            "title": "React interactivity: Editing, filtering, conditional rendering",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_interactivity_filtering_conditional_rendering",
+            "children": []
+          },
+          {
+            "title": "Accessibility in React",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_accessibility",
+            "children": []
+          },
+          {
+            "title": "React resources",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_resources",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Ember",
+        "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Ember_getting_started",
+        "children": [
+          {
+            "title": "Getting started with Ember",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Ember_getting_started",
+            "children": []
+          },
+          {
+            "title": "Ember app structure and componentization",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Ember_structure_componentization",
+            "children": []
+          },
+          {
+            "title": "Ember interactivity: Events, classes and state",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Ember_interactivity_events_state",
+            "children": []
+          },
+          {
+            "title": "Ember Interactivity: Footer functionality, conditional rendering",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Ember_conditional_footer",
+            "children": []
+          },
+          {
+            "title": "Routing in Ember",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Ember_routing",
+            "children": []
+          },
+          {
+            "title": "Ember resources and troubleshooting",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Ember_resources",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Vue",
+        "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_getting_started",
+        "children": [
+          {
+            "title": "Getting started with Vue",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_getting_started",
+            "children": []
+          },
+          {
+            "title": "Creating our first Vue component",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_first_component",
+            "children": []
+          },
+          {
+            "title": "Rendering a list of Vue components",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_rendering_lists",
+            "children": []
+          },
+          {
+            "title": "Adding a new todo form: Vue events, methods, and models",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_methods_events_models",
+            "children": []
+          },
+          {
+            "title": "Styling Vue components with CSS",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_styling",
+            "children": []
+          },
+          {
+            "title": "Using Vue computed properties",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_computed_properties",
+            "children": []
+          },
+          {
+            "title": "Vue conditional rendering: editing existing todos",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_conditional_rendering",
+            "children": []
+          },
+          {
+            "title": "Focus management with Vue refs",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_refs_focus_management",
+            "children": []
+          },
+          {
+            "title": "Vue resources",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_resources",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Svelte",
+        "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started",
+        "children": [
+          {
+            "title": "Getting started with Svelte",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started",
+            "children": []
+          },
+          {
+            "title": "Starting our Svelte to-do list app",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_Todo_list_beginning",
+            "children": []
+          },
+          {
+            "title": "Dynamic behavior in Svelte: working with variables and props",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_variables_props",
+            "children": []
+          },
+          {
+            "title": "Componentizing our Svelte app",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_components",
+            "children": []
+          },
+          {
+            "title": "Advanced Svelte: Reactivity, lifecycle, accessibility",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_reactivity_lifecycle_accessibility",
+            "children": []
+          },
+          {
+            "title": "Working with Svelte stores",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_stores",
+            "children": []
+          },
+          {
+            "title": "TypeScript support in Svelte",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_TypeScript",
+            "children": []
+          },
+          {
+            "title": "Deployment and next steps",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_deployment_next",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Angular",
+        "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Angular_getting_started",
+        "children": [
+          {
+            "title": "Getting started with Angular",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Angular_getting_started",
+            "children": []
+          },
+          {
+            "title": "Beginning our Angular todo list app",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Angular_todo_list_beginning",
+            "children": []
+          },
+          {
+            "title": "Styling our Angular app",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Angular_styling",
+            "children": []
+          },
+          {
+            "title": "Creating an item component",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Angular_item_component",
+            "children": []
+          },
+          {
+            "title": "Filtering our to-do items",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Angular_filtering",
+            "children": []
+          },
+          {
+            "title": "Building Angular applications and further resources",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Angular_building",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Git and GitHub",
+        "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/GitHub",
+        "children": [
+          {
+            "title": "Git and GitHub",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/GitHub",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Cross browser testing",
+        "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing",
+        "children": [
+          {
+            "title": "Cross browser testing",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing",
+            "children": []
+          },
+          {
+            "title": "Introduction to cross-browser testing",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Introduction",
+            "children": []
+          },
+          {
+            "title": "Strategies for carrying out testing",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Testing_strategies",
+            "children": []
+          },
+          {
+            "title": "Handling common HTML and CSS problems",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/HTML_and_CSS",
+            "children": []
+          },
+          {
+            "title": "Handling common JavaScript problems",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/JavaScript",
+            "children": []
+          },
+          {
+            "title": "Handling common accessibility problems",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Accessibility",
+            "children": []
+          },
+          {
+            "title": "Implementing feature detection",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Feature_detection",
+            "children": []
+          },
+          {
+            "title": "Introduction to automated testing",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Automated_testing",
+            "children": []
+          },
+          {
+            "title": "Setting up your own test automation environment",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Your_own_automation_environment",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Server-side website programming",
+    "link": "https://developer.mozilla.org/en-US/docs/Learn/Server-side",
+    "children": [
+      {
+        "title": "First steps",
+        "link": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps",
+        "children": [
+          {
+            "title": "Server-side website programming first steps",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps",
+            "children": []
+          },
+          {
+            "title": "Introduction to the server side",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Introduction",
+            "children": []
+          },
+          {
+            "title": "Client-Server Overview",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Client-Server_overview",
+            "children": []
+          },
+          {
+            "title": "Server-side web frameworks",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Web_frameworks",
+            "children": []
+          },
+          {
+            "title": "Website security",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Website_security",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Django web framework (Python)",
+        "link": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django",
+        "children": [
+          {
+            "title": "Django Web Framework (Python)",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django",
+            "children": []
+          },
+          {
+            "title": "Django introduction",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Introduction",
+            "children": []
+          },
+          {
+            "title": "Setting up a Django development environment",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/development_environment",
+            "children": []
+          },
+          {
+            "title": "Django Tutorial: The Local Library website",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Tutorial_local_library_website",
+            "children": []
+          },
+          {
+            "title": "Django Tutorial Part 2: Creating a skeleton website",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/skeleton_website",
+            "children": []
+          },
+          {
+            "title": "Django Tutorial Part 3: Using models",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models",
+            "children": []
+          },
+          {
+            "title": "Django Tutorial Part 4: Django admin site",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Admin_site",
+            "children": []
+          },
+          {
+            "title": "Django Tutorial Part 5: Creating our home page",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Home_page",
+            "children": []
+          },
+          {
+            "title": "Django Tutorial Part 6: Generic list and detail views",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Generic_views",
+            "children": []
+          },
+          {
+            "title": "Django Tutorial Part 7: Sessions framework",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Sessions",
+            "children": []
+          },
+          {
+            "title": "Django Tutorial Part 8: User authentication and permissions",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Authentication",
+            "children": []
+          },
+          {
+            "title": "Django Tutorial Part 9: Working with forms",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Forms",
+            "children": []
+          },
+          {
+            "title": "Django Tutorial Part 10: Testing a Django web application",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Testing",
+            "children": []
+          },
+          {
+            "title": "Django Tutorial Part 11: Deploying Django to production",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Deployment",
+            "children": []
+          },
+          {
+            "title": "Django web application security",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/web_application_security",
+            "children": []
+          },
+          {
+            "title": "Assessment: DIY Django mini blog",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/django_assessment_blog",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Express Web Framework (Node.js/JavaScript)",
+        "link": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs",
+        "children": [
+          {
+            "title": "Express web framework (Node.js/JavaScript)",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs",
+            "children": []
+          },
+          {
+            "title": "Express/Node introduction",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction",
+            "children": []
+          },
+          {
+            "title": "Setting up a Node development environment",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/development_environment",
+            "children": []
+          },
+          {
+            "title": "Express Tutorial: The Local Library website",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website",
+            "children": []
+          },
+          {
+            "title": "Express Tutorial Part 2: Creating a skeleton website",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/skeleton_website",
+            "children": []
+          },
+          {
+            "title": "Express Tutorial Part 3: Using a Database (with Mongoose)",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose",
+            "children": []
+          },
+          {
+            "title": "Express Tutorial Part 4: Routes and controllers",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes",
+            "children": []
+          },
+          {
+            "title": "Express Tutorial Part 5: Displaying library data",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Displaying_data",
+            "children": []
+          },
+          {
+            "title": "Express Tutorial Part 6: Working with forms",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/forms",
+            "children": []
+          },
+          {
+            "title": "Express Tutorial Part 7: Deploying to production",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/deployment",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Further resources",
+    "link": "https://developer.mozilla.org/en-US/docs/Learn/Common_questions",
+    "children": [
+      {
+        "title": "Common questions",
+        "link": "https://developer.mozilla.org/en-US/docs/Learn/Common_questions",
+        "children": [
+          {
+            "title": "Common questions",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Common_questions",
+            "children": []
+          },
+          {
+            "title": "Use HTML to solve common problems",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto",
+            "children": []
+          },
+          {
+            "title": "Use CSS to solve common problems",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Howto",
+            "children": []
+          },
+          {
+            "title": "Solve common problems in your JavaScript code",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Howto",
+            "children": []
+          },
+          {
+            "title": "Web mechanics",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics",
+            "children": []
+          },
+          {
+            "title": "Tools and setup",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Tools_and_setup",
+            "children": []
+          },
+          {
+            "title": "Design and accessibility",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Design_and_accessibility",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,3 +1,5 @@
+let groupId = null;
+
 function openInTabGroup(urlToOpen) {
 	// Search if tab group already exists
 	chrome.tabGroups.query({ title: "FCC Research" }, function (groups) {

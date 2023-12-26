@@ -45,7 +45,6 @@ function loadOptions() {
 
 const CONTENT_LIST = document.body.querySelector("#contents-list");
 const LINK_TEMPLATE = document.body.querySelector("#link-template");
-let groupId = null;
 let focusedItemIndicies = [];
 
 function createContentItem(title, link, isExpandable, depthLevel) {
@@ -89,10 +88,12 @@ function loadContentsList() {
 	}
 
 	let childrenToDisplay = curriculum;
+	let indexString = "";
 	for (let i = 0; i < focusedItemIndicies.length; i++) {
+		indexString += parseInt(focusedItemIndicies[i]) + "."
 		let content = childrenToDisplay[focusedItemIndicies[i]];
 		let contentItem = createContentItem(
-			content["title"],
+			indexString + " " + content["title"],
 			content["link"],
 			content["children"].length > 0,
 			i
@@ -108,7 +109,7 @@ function loadContentsList() {
 		let content = childrenToDisplay[i];
 		let isExpandable = content["children"].length > 0
 		let contentItem = createContentItem(
-			content["title"],
+			indexString + parseInt(i) + ". " + content["title"],
 			content["link"],
 			isExpandable,
 			focusedItemIndicies.length

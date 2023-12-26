@@ -91,5 +91,5 @@ if __name__ == "__main__":
   
   driver.quit()
   
-  with open("curriculum.json", 'w') as file:
+  with open("data/curriculum.json", 'w') as file:
     json.dump(courses, file, indent=2)

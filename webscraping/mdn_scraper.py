@@ -54,5 +54,5 @@ if __name__ == "__main__":
         
     driver.quit()
     
-    with open("mdn_contents.json", 'w') as file:
+    with open("data/mdn_contents.json", 'w') as file:
     	json.dump(contents, file, indent=2)

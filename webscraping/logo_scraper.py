@@ -27,5 +27,5 @@ with open("resources.json", "r") as file:
       data[i] = resource
   
 if len(data) > 0:
-  with open("resources.json", "w") as file:
+  with open("data/resources.json", "w") as file:
     json.dump(data, file, indent=2)

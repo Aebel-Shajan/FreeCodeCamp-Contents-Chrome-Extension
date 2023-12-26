@@ -6,6 +6,7 @@
 	--fcc-grey: #d0d0d5; /* uk 😢 */
 	--fcc-white: #f5f6f7;
 	--fcc-blue: #1b1b32;
+	--fcc-light-blue: #3b3b4f;
 	box-sizing: border-box;
 }
 
@@ -66,12 +67,15 @@ body {
 .hide {
 	display: none;
 }
-input, input::placeholder {
-	background-color: var(--fcc-blue);
+input {
+	background-color: var(--fcc-light-blue);
 	color: var(--fcc-white);
 	padding: 5px 1.5rem;
 	padding-left: 1rem;
 	width: calc(100% - 90px);
+}
+input::placeholder {
+	color: var(--fcc-white);
 }
 
 

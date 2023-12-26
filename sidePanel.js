@@ -1,6 +1,6 @@
-import fcc_curriculum from './webscraping/curriculum.json' assert { type: 'json' };
-import mdn_contents from './webscraping/mdn_contents.json' assert {type: "json"};
-import resources from './webscraping/resources.json' assert {type: 'json'};
+import fcc_curriculum from './data/curriculum.json' assert { type: 'json' };
+import mdn_contents from './data/mdn_contents.json' assert {type: "json"};
+import resources from './data/resources.json' assert {type: 'json'};
 import openTab from "./newTabLogic.js";
 
 

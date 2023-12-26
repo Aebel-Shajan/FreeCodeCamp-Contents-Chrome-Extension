@@ -36,6 +36,9 @@ body {
 	height:max-content;/********************/
 	padding: 1rem;
 }
+#options-container div:last-child {
+	padding: 0;
+}
 .option-container {
 	display: flex;
 	justify-content: space-between;
@@ -43,7 +46,7 @@ body {
 	padding-bottom: 0.5rem;
 }
 .option-text {
-	width: 40vw;
+	width: 30vw;
 }
 .fcc-button {
 	color: var(--fcc-blue);
@@ -62,6 +65,14 @@ body {
 .hide {
 	display: none;
 }
+input, input::placeholder {
+	background-color: var(--fcc-blue);
+	color: var(--fcc-white);
+	padding: 5px 1.5rem;
+	padding-left: 1rem;
+	width: calc(100% - 90px);
+}
+
 
 #contents-container {
 	width: 100%;

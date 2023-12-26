@@ -19,9 +19,11 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
 			</a>
 		</li>
 	</template>
+	
 	<div id="title-container">
-		FreeCodeCamp Contents
+		Contents Panel
 	</div>
+
 	<div id="options-container">
 		<div class="option-container">
 			<div class="option-text">
@@ -32,7 +34,23 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
 				<button class="fcc-button enabled">Off</button>
 			</div>
 		</div>
+		<div class="option-container">
+			<div class="option-text">
+				Use numbering:
+			</div>
+			<div class="toggle-buttons numbering-toggle" id="on">
+				<button class="fcc-button enabled">On</button>
+				<button class="fcc-button ">Off</button>
+			</div>
+		</div>
+
+		<div class="option-container">
+			<input type="text" id="search-bar" placeholder="Search curriculum...">
+			<button class="fcc-button" id="clear-button">Clear</button>
+		</div>
+
 	</div>
+	
 	<div id="contents-container">
 		<div id="contents">
 			<ul id="contents-list">

@@ -27,6 +27,26 @@ function loadResourceLinks() {
 	}
 }
 
+const CONTENT_LIST = document.body.querySelector("#contents-list");
+const LINK_TEMPLATE = document.body.querySelector("#link-template");
+let focusedItemIndicies = [];
+let useNumbering = () => {document.querySelector(".numbering-toggle").id};
+
+function searchElement(element, searchTerm, indexString) {
+	let title = indexString + ". " + element["title"];
+	// If the title of the element matches the search term, create a new HTML element and append it to the results container
+	if (title.toLowerCase().includes(searchTerm)) {
+			let resultElement = createContentItem(title, element["link"], false, 0);
+			CONTENT_LIST.appendChild(resultElement);
+	}
+	// If the element has children, recursively search through each child
+	if (element["children"]) {
+			for (let j = 0; j < element["children"].length; j++) {
+					searchElement(element["children"][j], searchTerm, indexString + "." + parseInt(j));
+			}
+	}
+}
+
 function loadOptions() {
 	let toggleButtons = document.querySelectorAll(".toggle-buttons");
 	toggleButtons.forEach((option) => {
@@ -41,11 +61,30 @@ function loadOptions() {
 			})
 		})
 	})
+
+	// Get the input element
+	let searchBar = document.querySelector("#search-bar");
+	document.querySelector("#clear-button").addEventListener("click", ()=> {
+		searchBar.value = "";
+		loadContentsList();
+	});
+	// Add an event listener to the input element
+	searchBar.addEventListener("input", function () {
+		// Get the search term
+		let searchTerm = this.value;
+		if (searchTerm !== "") {
+			clearContentsList();
+			console.log(searchTerm);
+			// Iterate over the elements in curriculum.json
+			for (let i = 0; i < curriculum.length; i++) {
+        searchElement(curriculum[i], searchTerm, parseInt(i));
+			}
+		} else {
+			loadContentsList();
+		}
+	});
 }
 
-const CONTENT_LIST = document.body.querySelector("#contents-list");
-const LINK_TEMPLATE = document.body.querySelector("#link-template");
-let focusedItemIndicies = [];
 
 function createContentItem(title, link, isExpandable, depthLevel) {
 	let contentItem = LINK_TEMPLATE.content.cloneNode(true);
@@ -61,31 +100,43 @@ function createContentItem(title, link, isExpandable, depthLevel) {
 	return contentItem
 }
 
-function expandContentItem(index) {
-	focusedItemIndicies.push(index);
-	loadContentsList();
+function makeExpandable(contentItem, index) {
+	contentItem.querySelector(".content-expand").addEventListener("click", event => {
+		focusedItemIndicies.push(index);
+		loadContentsList();
+	});
+	contentItem.querySelector("i").className = "fa-solid fa-circle-plus"
+	return contentItem;
 }
 
-function collapseContentItem(depth) {
-	while (focusedItemIndicies.length > depth) {
-		focusedItemIndicies.pop();
-	}
-	loadContentsList();
+function makeCollapsable(contentItem, depth) {
+	contentItem.querySelector(".content-expand").addEventListener("click", event => {
+		while (focusedItemIndicies.length > depth) {
+			focusedItemIndicies.pop();
+		}
+		loadContentsList();
+	});
+	contentItem.querySelector("i").className = "fa-solid fa-circle-minus"
+	return contentItem;
 }
 
 function getElementHeight(selector) {
 	return window.getComputedStyle(document.querySelector(selector)).height;
 }
 
-function loadContentsList() {
-	let contentsContainer = document.querySelector("#contents-container");
-	contentsContainer.style.height = "calc( 100%" + " - (" + 
-		getElementHeight("#title-container") + " + " +
-		getElementHeight("#options-container") + " + " +
-		getElementHeight("#resource-container") + ") )";
+function clearContentsList() {
 	while (CONTENT_LIST.firstChild) {
 		CONTENT_LIST.removeChild(CONTENT_LIST.firstChild);
 	}
+}
+
+function loadContentsList() {
+	let contentsContainer = document.querySelector("#contents-container");
+	contentsContainer.style.height = "calc( 100%" + " - (" +
+		getElementHeight("#title-container") + " + " +
+		getElementHeight("#options-container") + " + " +
+		getElementHeight("#resource-container") + ") )";
+	clearContentsList()
 
 	let childrenToDisplay = curriculum;
 	let indexString = "";
@@ -98,9 +149,7 @@ function loadContentsList() {
 			content["children"].length > 0,
 			i
 		);
-		contentItem.querySelector(".content-expand").addEventListener("click", event => {
-			collapseContentItem(i);
-		});
+		contentItem = makeCollapsable(contentItem, i);
 		CONTENT_LIST.appendChild(contentItem);
 		childrenToDisplay = childrenToDisplay[focusedItemIndicies[i]]["children"];
 	}
@@ -115,10 +164,9 @@ function loadContentsList() {
 			focusedItemIndicies.length
 		);
 		if (isExpandable) {
-			contentItem.querySelector(".content-expand").addEventListener("click", event => {
-				expandContentItem(i);
-			});
+			contentItem = makeExpandable(contentItem, i);
 		}
+
 		CONTENT_LIST.appendChild(contentItem);
 	}
 }

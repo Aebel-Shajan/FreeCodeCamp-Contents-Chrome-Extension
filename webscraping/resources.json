@@ -11,11 +11,12 @@
   },
   {
     "name": "react",
-    "link": "https://react.dev/reference/react"
+    "link": "https://react.dev/reference/react",
+		"icon link": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
   },
   {
     "name": "redux",
     "link": "https://redux.js.org",
-    "icon link": "https://redux.js.org/img/favicon/favicon.ico"
+    "icon link": "https://redux.js.org/img/redux.svg"
   }
 ]

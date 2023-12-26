@@ -11,7 +11,10 @@ def scrape_courses(course_map):
       title = element.text.strip()
       href = element.get_attribute('href')
       if href:
-          courses.append({"course title": title, "course link": href})
+          courses.append({
+            "title": title,
+            "link": href,
+            "children": []})
   return courses
 
 def scrape_chapters(chapter_blocks, url):
@@ -29,18 +32,18 @@ def scrape_chapters(chapter_blocks, url):
         chapter_title = remove_spans(clickable_div[0])
         chapter_link = url + "#" + chapter_title.lower().replace(" ", "-")
         chapters.append({
-          "chapter title": chapter_title,
-          "chapter link": chapter_link,
-          "lessons": []
+          "title": chapter_title,
+          "link": chapter_link,
+          "children": []
           })
         
     elif (big_block_title):
       chapter_title = big_block_title[0].text
       chapter_link = url + "#" + chapter_title.lower().replace(" ", "-")
       chapters.append({
-        "chapter title": chapter_title,
-        "chapter link": chapter_link,
-        "lessons": scrape_lessons(block)
+        "title": chapter_title,
+        "link": chapter_link,
+        "children": scrape_lessons(block)
         })    
   return chapters
   
@@ -57,8 +60,9 @@ def scrape_lessons(block):
       lesson_link = lesson.get_attribute("href")
       if lesson_link:
         lessons.append({
-          "lesson title": lesson_title,
-          "lesson link": lesson_link
+          "title": lesson_title,
+          "link": lesson_link,
+          "children":[]
           })
   return lessons
 
@@ -79,10 +83,10 @@ if __name__ == "__main__":
   course_map = driver.find_element(By.CLASS_NAME, 'map-ui').find_elements(By.TAG_NAME, 'a')
   courses = scrape_courses(course_map)
   for i, course in enumerate(courses):
-    driver.get(course["course link"])
+    driver.get(course["link"])
     time.sleep(3)
     chapter_blocks = driver.find_elements(By.CLASS_NAME, "block")
-    course["chapters"] = scrape_chapters(chapter_blocks, course["course link"])
+    course["children"] = scrape_chapters(chapter_blocks, course["link"])
     courses[i] = course
   
   driver.quit()

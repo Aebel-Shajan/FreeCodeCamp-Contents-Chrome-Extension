@@ -1,4 +1,5 @@
-import curriculum from './webscraping/curriculum.json' assert { type: 'json' };
+import fcc_curriculum from './webscraping/curriculum.json' assert { type: 'json' };
+import mdn_contents from './webscraping/mdn_contents.json' assert {type: "json"};
 import resources from './webscraping/resources.json' assert {type: 'json'};
 import openTab from "./newTabLogic.js";
 
@@ -8,6 +9,7 @@ const LINK_TEMPLATE = document.body.querySelector("#link-template");
 let focusedItemIndicies = [];
 let useNumbering = () => { return document.querySelector(".numbering-toggle").id === "on" };
 console.log(useNumbering());
+let currentContentList = fcc_curriculum;
 
 function loadResourceLinks() {
 	for (let i = 0; i < resources.length; i++) {
@@ -63,20 +65,36 @@ function loadOptions() {
 				})
 				button.classList.add('enabled');
 				option.id = button.innerText.toLowerCase();
+
 				// Get the search term
 				let searchBar = document.querySelector("#search-bar");
 				let searchTerm = searchBar.value;
 				if (searchTerm !== "") {
 					clearContentsList();
 					console.log(searchTerm);
-					// Iterate over the elements in curriculum.json
-					for (let i = 0; i < curriculum.length; i++) {
-						searchElement(curriculum[i], searchTerm, parseInt(i));
+					// Iterate over the elements in currentContentList.json
+					for (let i = 0; i < currentContentList.length; i++) {
+						searchElement(currentContentList[i], searchTerm, parseInt(i));
 					}
 				} else {
 					loadContentsList();
 				}
 			})
+		})
+	})
+
+	let websiteButtons = document.querySelector(".website-toggle").querySelectorAll(".fcc-button");
+	websiteButtons.forEach((button) => {
+		button.addEventListener("click", () => {
+			switch (button.innerText) {
+				case "FCC":
+					currentContentList = fcc_curriculum;
+					break;
+				case "MDN":
+					currentContentList = mdn_contents;
+					break;
+			}
+			loadContentsList();
 		})
 	})
 
@@ -93,9 +111,9 @@ function loadOptions() {
 		if (searchTerm !== "") {
 			clearContentsList();
 			console.log(searchTerm);
-			// Iterate over the elements in curriculum.json
-			for (let i = 0; i < curriculum.length; i++) {
-				searchElement(curriculum[i], searchTerm, parseInt(i));
+			// Iterate over the elements in currentContentList.json
+			for (let i = 0; i < currentContentList.length; i++) {
+				searchElement(currentContentList[i], searchTerm, parseInt(i));
 			}
 		} else {
 			loadContentsList();
@@ -156,7 +174,7 @@ function loadContentsList() {
 		getElementHeight("#resource-container") + ") )";
 	clearContentsList()
 
-	let childrenToDisplay = curriculum;
+	let childrenToDisplay = currentContentList;
 	let indexString = "";
 	for (let i = 0; i < focusedItemIndicies.length; i++) {
 		indexString += parseInt(focusedItemIndicies[i]) + "."

@@ -2,6 +2,13 @@ import curriculum from './webscraping/curriculum.json' assert { type: 'json' };
 import resources from './webscraping/resources.json' assert {type: 'json'};
 import openTab from "./newTabLogic.js";
 
+
+const CONTENT_LIST = document.body.querySelector("#contents-list");
+const LINK_TEMPLATE = document.body.querySelector("#link-template");
+let focusedItemIndicies = [];
+let useNumbering = () => { return document.querySelector(".numbering-toggle").id === "on" };
+console.log(useNumbering());
+
 function loadResourceLinks() {
 	for (let i = 0; i < resources.length; i++) {
 		let resource = resources[i];
@@ -27,23 +34,21 @@ function loadResourceLinks() {
 	}
 }
 
-const CONTENT_LIST = document.body.querySelector("#contents-list");
-const LINK_TEMPLATE = document.body.querySelector("#link-template");
-let focusedItemIndicies = [];
-let useNumbering = () => {document.querySelector(".numbering-toggle").id};
-
 function searchElement(element, searchTerm, indexString) {
-	let title = indexString + ". " + element["title"];
+	let title = element["title"];
+	if (useNumbering()) {
+		title = indexString + ". " + title;
+	}
 	// If the title of the element matches the search term, create a new HTML element and append it to the results container
 	if (title.toLowerCase().includes(searchTerm)) {
-			let resultElement = createContentItem(title, element["link"], false, 0);
-			CONTENT_LIST.appendChild(resultElement);
+		let resultElement = createContentItem(title, element["link"], false, 0);
+		CONTENT_LIST.appendChild(resultElement);
 	}
 	// If the element has children, recursively search through each child
 	if (element["children"]) {
-			for (let j = 0; j < element["children"].length; j++) {
-					searchElement(element["children"][j], searchTerm, indexString + "." + parseInt(j));
-			}
+		for (let j = 0; j < element["children"].length; j++) {
+			searchElement(element["children"][j], searchTerm, indexString + "." + parseInt(j));
+		}
 	}
 }
 
@@ -58,13 +63,26 @@ function loadOptions() {
 				})
 				button.classList.add('enabled');
 				option.id = button.innerText.toLowerCase();
+				// Get the search term
+				let searchBar = document.querySelector("#search-bar");
+				let searchTerm = searchBar.value;
+				if (searchTerm !== "") {
+					clearContentsList();
+					console.log(searchTerm);
+					// Iterate over the elements in curriculum.json
+					for (let i = 0; i < curriculum.length; i++) {
+						searchElement(curriculum[i], searchTerm, parseInt(i));
+					}
+				} else {
+					loadContentsList();
+				}
 			})
 		})
 	})
 
 	// Get the input element
 	let searchBar = document.querySelector("#search-bar");
-	document.querySelector("#clear-button").addEventListener("click", ()=> {
+	document.querySelector("#clear-button").addEventListener("click", () => {
 		searchBar.value = "";
 		loadContentsList();
 	});
@@ -77,7 +95,7 @@ function loadOptions() {
 			console.log(searchTerm);
 			// Iterate over the elements in curriculum.json
 			for (let i = 0; i < curriculum.length; i++) {
-        searchElement(curriculum[i], searchTerm, parseInt(i));
+				searchElement(curriculum[i], searchTerm, parseInt(i));
 			}
 		} else {
 			loadContentsList();
@@ -143,8 +161,12 @@ function loadContentsList() {
 	for (let i = 0; i < focusedItemIndicies.length; i++) {
 		indexString += parseInt(focusedItemIndicies[i]) + "."
 		let content = childrenToDisplay[focusedItemIndicies[i]];
+		let title = content["title"];
+		if (useNumbering()) {
+			title = indexString + " " + title;
+		}
 		let contentItem = createContentItem(
-			indexString + " " + content["title"],
+			title,
 			content["link"],
 			content["children"].length > 0,
 			i
@@ -157,8 +179,12 @@ function loadContentsList() {
 	for (let i = 0; i < childrenToDisplay.length; i++) {
 		let content = childrenToDisplay[i];
 		let isExpandable = content["children"].length > 0
+		let title = content["title"];
+		if (useNumbering()) {
+			title = indexString + parseInt(i) + ". " + title;
+		}
 		let contentItem = createContentItem(
-			indexString + parseInt(i) + ". " + content["title"],
+			title,
 			content["link"],
 			isExpandable,
 			focusedItemIndicies.length
@@ -175,4 +201,4 @@ function loadContentsList() {
 loadOptions()
 loadResourceLinks()
 loadContentsList();
-setTimeout(loadContentsList, 500); // 😭
+setTimeout(loadContentsList, 500); // 😭, to fix css height calculation

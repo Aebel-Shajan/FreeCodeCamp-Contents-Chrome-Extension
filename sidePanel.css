@@ -16,7 +16,7 @@ body {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	font-size: 1rem;
+	font-size: 0.9rem;
 	overflow: hidden;
 }
 
@@ -37,9 +37,7 @@ body {
 	width: 100%;
 	height:max-content;/********************/
 	padding: 1rem;
-}
-#options-container div:last-child {
-	padding: 0;
+	padding-bottom: 0;
 }
 .option-container {
 	display: flex;
@@ -71,7 +69,7 @@ input {
 	background-color: var(--fcc-light-blue);
 	color: var(--fcc-white);
 	padding: 5px 1.5rem;
-	padding-left: 1rem;
+	padding-left: 0.5rem;
 	width: calc(100% - 90px);
 }
 input::placeholder {

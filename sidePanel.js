@@ -54,6 +54,22 @@ function searchElement(element, searchTerm, indexString) {
 	}
 }
 
+function updateSearchList() {
+	// Get the search term
+	let searchBar = document.querySelector("#search-bar");
+	let searchTerm = searchBar.value;
+	if (searchTerm !== "") {
+		clearContentsList();
+		console.log(searchTerm);
+		// Iterate over the elements in currentContentList.json
+		for (let i = 0; i < currentContentList.length; i++) {
+			searchElement(currentContentList[i], searchTerm, parseInt(i));
+		}
+	} else {
+		loadContentsList();
+	}
+}
+
 function loadOptions() {
 	let toggleButtons = document.querySelectorAll(".toggle-buttons");
 	toggleButtons.forEach((option) => {
@@ -66,19 +82,7 @@ function loadOptions() {
 				button.classList.add('enabled');
 				option.id = button.innerText.toLowerCase();
 
-				// Get the search term
-				let searchBar = document.querySelector("#search-bar");
-				let searchTerm = searchBar.value;
-				if (searchTerm !== "") {
-					clearContentsList();
-					console.log(searchTerm);
-					// Iterate over the elements in currentContentList.json
-					for (let i = 0; i < currentContentList.length; i++) {
-						searchElement(currentContentList[i], searchTerm, parseInt(i));
-					}
-				} else {
-					loadContentsList();
-				}
+				updateSearchList()
 			})
 		})
 	})
@@ -94,7 +98,7 @@ function loadOptions() {
 					currentContentList = mdn_contents;
 					break;
 			}
-			loadContentsList();
+			updateSearchList();
 		})
 	})
 
@@ -106,18 +110,7 @@ function loadOptions() {
 	});
 	// Add an event listener to the input element
 	searchBar.addEventListener("input", function () {
-		// Get the search term
-		let searchTerm = this.value;
-		if (searchTerm !== "") {
-			clearContentsList();
-			console.log(searchTerm);
-			// Iterate over the elements in currentContentList.json
-			for (let i = 0; i < currentContentList.length; i++) {
-				searchElement(currentContentList[i], searchTerm, parseInt(i));
-			}
-		} else {
-			loadContentsList();
-		}
+		updateSearchList();
 	});
 }
 

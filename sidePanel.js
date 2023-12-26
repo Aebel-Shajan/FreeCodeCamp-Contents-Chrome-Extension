@@ -40,7 +40,7 @@ function searchElement(element, searchTerm, indexString) {
 		title = indexString + ". " + title;
 	}
 	// If the title of the element matches the search term, create a new HTML element and append it to the results container
-	if (title.toLowerCase().includes(searchTerm)) {
+	if (title.toLowerCase().includes(searchTerm.toLowerCase())) {
 		let resultElement = createContentItem(title, element["link"], false, 0);
 		CONTENT_LIST.appendChild(resultElement);
 	}

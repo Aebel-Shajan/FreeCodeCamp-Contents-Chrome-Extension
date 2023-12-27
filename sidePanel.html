@@ -3,8 +3,7 @@
 <head>
 	<title>FreeCodeCamp Contents Panel</title>
 	<link rel="stylesheet" href="sidePanel.css">
-	<link rel="stylesheet" 
-href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 </head>
 
 <body>
@@ -19,57 +18,55 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
 			</a>
 		</li>
 	</template>
-	
-	<div id="title-container">
+
+	<header>
 		Contents Panel
-	</div>
+	</header>
 
-
-	<div id="options-container">
-		
-		<div class="option-container">
-			<div class="option-text">
-				Open in tab group:
+	<main>
+		<div id="options-container">
+			<div class="option-container">
+				<div class="option-text">
+					Open in tab group:
+				</div>
+				<div class="toggle-buttons tab-group-toggle" id="off">
+					<button class="fcc-button ">On</button>
+					<button class="fcc-button enabled">Off</button>
+				</div>
 			</div>
-			<div class="toggle-buttons tab-group-toggle" id="off">
-				<button class="fcc-button ">On</button>
-				<button class="fcc-button enabled">Off</button>
+
+			<div class="option-container">
+				<div class="option-text">
+					Use numbering:
+				</div>
+				<div class="toggle-buttons numbering-toggle" id="on">
+					<button class="fcc-button enabled">On</button>
+					<button class="fcc-button ">Off</button>
+				</div>
+			</div>
+
+			<div class="option-container">
+				<input type="text" id="search-bar" placeholder="Search curriculum...">
+				<button class="fcc-button" id="clear-button">Clear</button>
+			</div>
+
+			<div class="option-container">
+				<div class="toggle-buttons website-toggle" id="fcc">
+					<button class="fcc-button enabled">FCC</button>
+					<button class="fcc-button ">MDN</button>
+				</div>
 			</div>
 		</div>
-		<div class="option-container">
-			<div class="option-text">
-				Use numbering:
-			</div>
-			<div class="toggle-buttons numbering-toggle" id="on">
-				<button class="fcc-button enabled">On</button>
-				<button class="fcc-button ">Off</button>
-			</div>
+
+		<div id="contents-container">
+				<ul id="contents-list">
+				</ul>
 		</div>
 
-		<div class="option-container">
-			<input type="text" id="search-bar" placeholder="Search curriculum...">
-			<button class="fcc-button" id="clear-button">Clear</button>
+		<div id="info-container">
+			Unofficial extension for the FreeCodeCamp website
 		</div>
-
-		<div class="option-container">
-			<div class="toggle-buttons website-toggle" id="fcc">
-				<button class="fcc-button enabled">FCC</button>
-				<button class="fcc-button ">MDN</button>
-			</div>
-		</div>
-
-	</div>
-	
-	<div id="contents-container">
-		<div id="contents">
-			<ul id="contents-list">
-			</ul>
-		</div>
-	</div>
-
-	<div id="info-container">
-		Unofficial extension for the FreeCodeCamp website
-	</div>
+	</main>
 	<script src="sidePanel.js" type="module"></script>
 </body>
 

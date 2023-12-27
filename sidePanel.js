@@ -160,13 +160,7 @@ function clearContentsList() {
 }
 
 function loadContentsList() {
-	let contentsContainer = document.querySelector("#contents-container");
-	contentsContainer.style.height = "calc( 100%" + " - (" +
-		getElementHeight("#title-container") + " + " +
-		getElementHeight("#options-container") + " + " +
-		getElementHeight("#resource-container") + ") )";
-	clearContentsList()
-
+	clearContentsList();
 	let childrenToDisplay = currentContentList;
 	let indexString = "";
 	for (let i = 0; i < focusedItemIndicies.length; i++) {

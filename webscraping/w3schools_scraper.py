@@ -15,44 +15,49 @@ def element_exists(base_element, by_blank, text):
         return False
 
 
+def extract_link(element):
+    return {
+        "title": element.get_attribute("innerText"),
+        "link": element.get_attribute("href"),
+        "children": [],
+    }
+
+
+def scrape_sidebar(content_data, driver):
+    sidebar = driver.find_elements(By.CSS_SELECTOR, ".w3-sidebar > div > div > *")
+    for i, element in enumerate(sidebar):
+        if element.tag_name == "h2":
+            item = {
+                "title": element.get_attribute("innerText"),
+                "link": sidebar[i + 1].get_attribute("href"),
+                "children": [],
+            }
+            content_data["children"].append(item)
+        elif element.tag_name == "a":
+            content_data["children"][-1]["children"].append(extract_link(element))
+    return content_data
+
+
 if __name__ == "__main__":
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
-    base_link = "https://developer.mozilla.org/en-US/docs/Learn"
+    base_link = "https://www.w3schools.com/"
     driver.get(base_link)
     contents = []
     time.sleep(2)  # may need to change this based on how good your internet is
 
-    sidebar = driver.find_elements(By.CSS_SELECTOR, ".sidebar-body > ol > li")
+    topnav_len = len(driver.find_elements(By.CSS_SELECTOR, "#subtopnav > .ga-nav"))
+    content_filter = ["html", "css", "javascript", "react", "python", "git"]
+    for i in range(topnav_len):
+        driver.get(base_link)
+        topnav = driver.find_elements(By.CSS_SELECTOR, "#subtopnav > .ga-nav")
+        subject = topnav[i]
+        if subject.get_attribute("innerText").lower() in content_filter:
+            item = extract_link(subject)
+            driver.get(subject.get_attribute("href"))
+            item = scrape_sidebar(item, driver)
+            contents.append(item)
 
-    for element in sidebar:
-        # Check if a direct child link exists
-        if element_exists(element, By.CSS_SELECTOR, ":scope > a"):
-          newElement = element.find_element(By.CSS_SELECTOR, ":scope > a")
-          item = {
-						"title": newElement.get_attribute("innerText"),
-						"link": newElement.get_attribute("href"),
-						"children": []
-					}
-          contents.append(item)
-        
-        if element_exists(element, By.CSS_SELECTOR, ":scope > details") & element_exists(element, By.CSS_SELECTOR, ":scope > details > ol"):
-          newElement = element.find_element(By.CSS_SELECTOR, ":scope > details")
-          child_elements = newElement.find_elements(By.TAG_NAME, "a")
-          item = {
-						"title": newElement.find_element(By.TAG_NAME, "summary").get_attribute("innerText"),
-						"link": child_elements[0].get_attribute("href"),
-						"children": []
-					}
-          for child_element in child_elements:
-            child_item = {
-							"title": child_element.get_attribute("innerHTML"),
-							"link": child_element.get_attribute("href"),
-							"children": []
-						}
-            item["children"].append(child_item)
-          contents[-1]["children"].append(item)
-        
     driver.quit()
-    
-    with open("data/mdn_contents.json", 'w') as file:
-    	json.dump(contents, file, indent=2)
+
+    with open("data/w3schools_contents.json", "w") as file:
+        json.dump(contents, file, indent=2)

@@ -149,10 +149,6 @@ function makeCollapsable(contentItem, depth) {
 	return contentItem;
 }
 
-function getElementHeight(selector) {
-	return window.getComputedStyle(document.querySelector(selector)).height;
-}
-
 function clearContentsList() {
 	while (CONTENT_LIST.firstChild) {
 		CONTENT_LIST.removeChild(CONTENT_LIST.firstChild);

@@ -79,7 +79,9 @@ input {
 	color: var(--fcc-white);
 	padding: 5px 1.5rem;
 	padding-left: 0.5rem;
-	width: calc(100% - 90px);
+	width: auto;
+	border: 3px solid var(--fcc-blue);
+	border-right: none;
 }
 input::placeholder {
 	color: var(--fcc-white);

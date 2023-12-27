@@ -210,6 +210,6 @@ function loadContentsList() {
 
 // load everything
 loadOptions()
-loadResourceLinks()
+// loadResourceLinks()
 loadContentsList();
 setTimeout(loadContentsList, 500); // 😭, to fix css height calculation

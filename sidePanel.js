@@ -91,7 +91,7 @@ function loadOptions() {
 	let websiteButtons = document.querySelector(".website-toggle").querySelectorAll(".fcc-button");
 	websiteButtons.forEach((button) => {
 		button.addEventListener("click", () => {
-			let focusedItemIndicies = [];
+			focusedItemIndicies = [];
 			switch (button.innerText) {
 				case "FCC":
 					currentContentList = fcc_curriculum;

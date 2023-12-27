@@ -1,0 +1,3122 @@
+[
+  {
+    "title": "HTML",
+    "link": "https://www.w3schools.com/html/default.asp",
+    "children": [
+      {
+        "title": "HTML Tutorial",
+        "link": "https://www.w3schools.com/html/default.asp",
+        "children": [
+          {
+            "title": "HTML HOME",
+            "link": "https://www.w3schools.com/html/default.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Introduction",
+            "link": "https://www.w3schools.com/html/html_intro.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Editors",
+            "link": "https://www.w3schools.com/html/html_editors.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Basic",
+            "link": "https://www.w3schools.com/html/html_basic.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Elements",
+            "link": "https://www.w3schools.com/html/html_elements.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Attributes",
+            "link": "https://www.w3schools.com/html/html_attributes.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Headings",
+            "link": "https://www.w3schools.com/html/html_headings.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Paragraphs",
+            "link": "https://www.w3schools.com/html/html_paragraphs.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Styles",
+            "link": "https://www.w3schools.com/html/html_styles.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Formatting",
+            "link": "https://www.w3schools.com/html/html_formatting.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Quotations",
+            "link": "https://www.w3schools.com/html/html_quotation_elements.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Comments",
+            "link": "https://www.w3schools.com/html/html_comments.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Colors",
+            "link": "https://www.w3schools.com/html/html_colors.asp",
+            "children": []
+          },
+          {
+            "title": "HTML CSS",
+            "link": "https://www.w3schools.com/html/html_css.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Links",
+            "link": "https://www.w3schools.com/html/html_links.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Images",
+            "link": "https://www.w3schools.com/html/html_images.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Favicon",
+            "link": "https://www.w3schools.com/html/html_favicon.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Page Title",
+            "link": "https://www.w3schools.com/html/html_page_title.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Tables",
+            "link": "https://www.w3schools.com/html/html_tables.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Lists",
+            "link": "https://www.w3schools.com/html/html_lists.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Block & Inline",
+            "link": "https://www.w3schools.com/html/html_blocks.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Div",
+            "link": "https://www.w3schools.com/html/html_div.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Classes",
+            "link": "https://www.w3schools.com/html/html_classes.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Id",
+            "link": "https://www.w3schools.com/html/html_id.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Iframes",
+            "link": "https://www.w3schools.com/html/html_iframe.asp",
+            "children": []
+          },
+          {
+            "title": "HTML JavaScript",
+            "link": "https://www.w3schools.com/html/html_scripts.asp",
+            "children": []
+          },
+          {
+            "title": "HTML File Paths",
+            "link": "https://www.w3schools.com/html/html_filepaths.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Head",
+            "link": "https://www.w3schools.com/html/html_head.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Layout",
+            "link": "https://www.w3schools.com/html/html_layout.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Responsive",
+            "link": "https://www.w3schools.com/html/html_responsive.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Computercode",
+            "link": "https://www.w3schools.com/html/html_computercode_elements.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Semantics",
+            "link": "https://www.w3schools.com/html/html5_semantic_elements.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Style Guide",
+            "link": "https://www.w3schools.com/html/html5_syntax.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Entities",
+            "link": "https://www.w3schools.com/html/html_entities.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Symbols",
+            "link": "https://www.w3schools.com/html/html_symbols.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Emojis",
+            "link": "https://www.w3schools.com/html/html_emojis.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Charsets",
+            "link": "https://www.w3schools.com/html/html_charset.asp",
+            "children": []
+          },
+          {
+            "title": "HTML URL Encode",
+            "link": "https://www.w3schools.com/html/html_urlencode.asp",
+            "children": []
+          },
+          {
+            "title": "HTML vs. XHTML",
+            "link": "https://www.w3schools.com/html/html_xhtml.asp",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "HTML Forms",
+        "link": "https://www.w3schools.com/html/html_forms.asp",
+        "children": [
+          {
+            "title": "HTML Forms",
+            "link": "https://www.w3schools.com/html/html_forms.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Form Attributes",
+            "link": "https://www.w3schools.com/html/html_forms_attributes.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Form Elements",
+            "link": "https://www.w3schools.com/html/html_form_elements.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Input Types",
+            "link": "https://www.w3schools.com/html/html_form_input_types.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Input Attributes",
+            "link": "https://www.w3schools.com/html/html_form_attributes.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Input Form Attributes",
+            "link": "https://www.w3schools.com/html/html_form_attributes_form.asp",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "HTML Graphics",
+        "link": "https://www.w3schools.com/html/html5_canvas.asp",
+        "children": [
+          {
+            "title": "HTML Canvas",
+            "link": "https://www.w3schools.com/html/html5_canvas.asp",
+            "children": []
+          },
+          {
+            "title": "HTML SVG",
+            "link": "https://www.w3schools.com/html/html5_svg.asp",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "HTML Media",
+        "link": "https://www.w3schools.com/html/html_media.asp",
+        "children": [
+          {
+            "title": "HTML Media",
+            "link": "https://www.w3schools.com/html/html_media.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Video",
+            "link": "https://www.w3schools.com/html/html5_video.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Audio",
+            "link": "https://www.w3schools.com/html/html5_audio.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Plug-ins",
+            "link": "https://www.w3schools.com/html/html_object.asp",
+            "children": []
+          },
+          {
+            "title": "HTML YouTube",
+            "link": "https://www.w3schools.com/html/html_youtube.asp",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "HTML APIs",
+        "link": "https://www.w3schools.com/html/html5_geolocation.asp",
+        "children": [
+          {
+            "title": "HTML Geolocation",
+            "link": "https://www.w3schools.com/html/html5_geolocation.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Drag/Drop",
+            "link": "https://www.w3schools.com/html/html5_draganddrop.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Web Storage",
+            "link": "https://www.w3schools.com/html/html5_webstorage.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Web Workers",
+            "link": "https://www.w3schools.com/html/html5_webworkers.asp",
+            "children": []
+          },
+          {
+            "title": "HTML SSE",
+            "link": "https://www.w3schools.com/html/html5_serversentevents.asp",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "HTML Examples",
+        "link": "https://www.w3schools.com/html/html_examples.asp",
+        "children": [
+          {
+            "title": "HTML Examples",
+            "link": "https://www.w3schools.com/html/html_examples.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Editor",
+            "link": "https://www.w3schools.com/html/html_editor.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Quiz",
+            "link": "https://www.w3schools.com/html/html_quiz.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Exercises",
+            "link": "https://www.w3schools.com/html/html_exercises.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Website",
+            "link": "https://www.w3schools.com/html/html_website.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Bootcamp",
+            "link": "https://www.w3schools.com/html/html_bootcamp.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Certificate",
+            "link": "https://www.w3schools.com/html/html_exam.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Summary",
+            "link": "https://www.w3schools.com/html/html_summary.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Accessibility",
+            "link": "https://www.w3schools.com/html/html_accessibility.asp",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "HTML References",
+        "link": "https://www.w3schools.com/tags/default.asp",
+        "children": [
+          {
+            "title": "HTML Tag List",
+            "link": "https://www.w3schools.com/tags/default.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Attributes",
+            "link": "https://www.w3schools.com/tags/ref_attributes.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Global Attributes",
+            "link": "https://www.w3schools.com/tags/ref_standardattributes.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Browser Support",
+            "link": "https://www.w3schools.com/tags/ref_html_browsersupport.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Events",
+            "link": "https://www.w3schools.com/tags/ref_eventattributes.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Colors",
+            "link": "https://www.w3schools.com/tags/ref_colornames.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Canvas",
+            "link": "https://www.w3schools.com/tags/ref_canvas.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Audio/Video",
+            "link": "https://www.w3schools.com/tags/ref_av_dom.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Doctypes",
+            "link": "https://www.w3schools.com/tags/ref_html_dtd.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Character Sets",
+            "link": "https://www.w3schools.com/tags/ref_charactersets.asp",
+            "children": []
+          },
+          {
+            "title": "HTML URL Encode",
+            "link": "https://www.w3schools.com/tags/ref_urlencode.asp",
+            "children": []
+          },
+          {
+            "title": "HTML Lang Codes",
+            "link": "https://www.w3schools.com/tags/ref_language_codes.asp",
+            "children": []
+          },
+          {
+            "title": "HTTP Messages",
+            "link": "https://www.w3schools.com/tags/ref_httpmessages.asp",
+            "children": []
+          },
+          {
+            "title": "HTTP Methods",
+            "link": "https://www.w3schools.com/tags/ref_httpmethods.asp",
+            "children": []
+          },
+          {
+            "title": "PX to EM Converter",
+            "link": "https://www.w3schools.com/tags/ref_pxtoemconversion.asp",
+            "children": []
+          },
+          {
+            "title": "Keyboard Shortcuts",
+            "link": "https://www.w3schools.com/tags/ref_keyboardshortcuts.asp",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "CSS",
+    "link": "https://www.w3schools.com/css/default.asp",
+    "children": [
+      {
+        "title": "CSS Tutorial",
+        "link": "https://www.w3schools.com/css/default.asp",
+        "children": [
+          {
+            "title": "CSS HOME",
+            "link": "https://www.w3schools.com/css/default.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Introduction",
+            "link": "https://www.w3schools.com/css/css_intro.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Syntax",
+            "link": "https://www.w3schools.com/css/css_syntax.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Selectors",
+            "link": "https://www.w3schools.com/css/css_selectors.asp",
+            "children": []
+          },
+          {
+            "title": "CSS How To",
+            "link": "https://www.w3schools.com/css/css_howto.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Comments",
+            "link": "https://www.w3schools.com/css/css_comments.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Colors",
+            "link": "https://www.w3schools.com/css/css_colors.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Backgrounds",
+            "link": "https://www.w3schools.com/css/css_background.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Borders",
+            "link": "https://www.w3schools.com/css/css_border.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Margins",
+            "link": "https://www.w3schools.com/css/css_margin.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Padding",
+            "link": "https://www.w3schools.com/css/css_padding.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Height/Width",
+            "link": "https://www.w3schools.com/css/css_dimension.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Box Model",
+            "link": "https://www.w3schools.com/css/css_boxmodel.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Outline",
+            "link": "https://www.w3schools.com/css/css_outline.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Text",
+            "link": "https://www.w3schools.com/css/css_text.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Fonts",
+            "link": "https://www.w3schools.com/css/css_font.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Icons",
+            "link": "https://www.w3schools.com/css/css_icons.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Links",
+            "link": "https://www.w3schools.com/css/css_link.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Lists",
+            "link": "https://www.w3schools.com/css/css_list.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Tables",
+            "link": "https://www.w3schools.com/css/css_table.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Display",
+            "link": "https://www.w3schools.com/css/css_display_visibility.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Max-width",
+            "link": "https://www.w3schools.com/css/css_max-width.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Position",
+            "link": "https://www.w3schools.com/css/css_positioning.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Z-index",
+            "link": "https://www.w3schools.com/css/css_z-index.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Overflow",
+            "link": "https://www.w3schools.com/css/css_overflow.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Float",
+            "link": "https://www.w3schools.com/css/css_float.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Inline-block",
+            "link": "https://www.w3schools.com/css/css_inline-block.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Align",
+            "link": "https://www.w3schools.com/css/css_align.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Combinators",
+            "link": "https://www.w3schools.com/css/css_combinators.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Pseudo-class",
+            "link": "https://www.w3schools.com/css/css_pseudo_classes.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Pseudo-element",
+            "link": "https://www.w3schools.com/css/css_pseudo_elements.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Opacity",
+            "link": "https://www.w3schools.com/css/css_image_transparency.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Navigation Bar",
+            "link": "https://www.w3schools.com/css/css_navbar.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Dropdowns",
+            "link": "https://www.w3schools.com/css/css_dropdowns.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Image Gallery",
+            "link": "https://www.w3schools.com/css/css_image_gallery.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Image Sprites",
+            "link": "https://www.w3schools.com/css/css_image_sprites.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Attr Selectors",
+            "link": "https://www.w3schools.com/css/css_attribute_selectors.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Forms",
+            "link": "https://www.w3schools.com/css/css_form.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Counters",
+            "link": "https://www.w3schools.com/css/css_counters.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Website Layout",
+            "link": "https://www.w3schools.com/css/css_website_layout.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Units",
+            "link": "https://www.w3schools.com/css/css_units.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Specificity",
+            "link": "https://www.w3schools.com/css/css_specificity.asp",
+            "children": []
+          },
+          {
+            "title": "CSS !important",
+            "link": "https://www.w3schools.com/css/css_important.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Math Functions",
+            "link": "https://www.w3schools.com/css/css_math_functions.asp",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "CSS Advanced",
+        "link": "https://www.w3schools.com/css/css3_borders.asp",
+        "children": [
+          {
+            "title": "CSS Rounded Corners",
+            "link": "https://www.w3schools.com/css/css3_borders.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Border Images",
+            "link": "https://www.w3schools.com/css/css3_border_images.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Backgrounds",
+            "link": "https://www.w3schools.com/css/css3_backgrounds.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Colors",
+            "link": "https://www.w3schools.com/css/css3_colors.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Color Keywords",
+            "link": "https://www.w3schools.com/css/css_colors_keywords.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Gradients",
+            "link": "https://www.w3schools.com/css/css3_gradients.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Shadows",
+            "link": "https://www.w3schools.com/css/css3_shadows.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Text Effects",
+            "link": "https://www.w3schools.com/css/css3_text_effects.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Web Fonts",
+            "link": "https://www.w3schools.com/css/css3_fonts.asp",
+            "children": []
+          },
+          {
+            "title": "CSS 2D Transforms",
+            "link": "https://www.w3schools.com/css/css3_2dtransforms.asp",
+            "children": []
+          },
+          {
+            "title": "CSS 3D Transforms",
+            "link": "https://www.w3schools.com/css/css3_3dtransforms.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Transitions",
+            "link": "https://www.w3schools.com/css/css3_transitions.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Animations",
+            "link": "https://www.w3schools.com/css/css3_animations.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Tooltips",
+            "link": "https://www.w3schools.com/css/css_tooltip.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Style Images",
+            "link": "https://www.w3schools.com/css/css3_images.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Image Reflection",
+            "link": "https://www.w3schools.com/css/css3_image_reflection.asp",
+            "children": []
+          },
+          {
+            "title": "CSS object-fit",
+            "link": "https://www.w3schools.com/css/css3_object-fit.asp",
+            "children": []
+          },
+          {
+            "title": "CSS object-position",
+            "link": "https://www.w3schools.com/css/css3_object-position.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Masking",
+            "link": "https://www.w3schools.com/css/css3_masking.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Buttons",
+            "link": "https://www.w3schools.com/css/css3_buttons.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Pagination",
+            "link": "https://www.w3schools.com/css/css3_pagination.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Multiple Columns",
+            "link": "https://www.w3schools.com/css/css3_multiple_columns.asp",
+            "children": []
+          },
+          {
+            "title": "CSS User Interface",
+            "link": "https://www.w3schools.com/css/css3_user_interface.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Variables",
+            "link": "https://www.w3schools.com/css/css3_variables.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Box Sizing",
+            "link": "https://www.w3schools.com/css/css3_box-sizing.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Media Queries",
+            "link": "https://www.w3schools.com/css/css3_mediaqueries.asp",
+            "children": []
+          },
+          {
+            "title": "CSS MQ Examples",
+            "link": "https://www.w3schools.com/css/css3_mediaqueries_ex.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Flexbox",
+            "link": "https://www.w3schools.com/css/css3_flexbox.asp",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "CSS Responsive",
+        "link": "https://www.w3schools.com/css/css_rwd_intro.asp",
+        "children": [
+          {
+            "title": "RWD Intro",
+            "link": "https://www.w3schools.com/css/css_rwd_intro.asp",
+            "children": []
+          },
+          {
+            "title": "RWD Viewport",
+            "link": "https://www.w3schools.com/css/css_rwd_viewport.asp",
+            "children": []
+          },
+          {
+            "title": "RWD Grid View",
+            "link": "https://www.w3schools.com/css/css_rwd_grid.asp",
+            "children": []
+          },
+          {
+            "title": "RWD Media Queries",
+            "link": "https://www.w3schools.com/css/css_rwd_mediaqueries.asp",
+            "children": []
+          },
+          {
+            "title": "RWD Images",
+            "link": "https://www.w3schools.com/css/css_rwd_images.asp",
+            "children": []
+          },
+          {
+            "title": "RWD Videos",
+            "link": "https://www.w3schools.com/css/css_rwd_videos.asp",
+            "children": []
+          },
+          {
+            "title": "RWD Frameworks",
+            "link": "https://www.w3schools.com/css/css_rwd_frameworks.asp",
+            "children": []
+          },
+          {
+            "title": "RWD Templates",
+            "link": "https://www.w3schools.com/css/css_rwd_templates.asp",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "CSS Grid",
+        "link": "https://www.w3schools.com/css/css_grid.asp",
+        "children": [
+          {
+            "title": "Grid Intro",
+            "link": "https://www.w3schools.com/css/css_grid.asp",
+            "children": []
+          },
+          {
+            "title": "Grid Container",
+            "link": "https://www.w3schools.com/css/css_grid_container.asp",
+            "children": []
+          },
+          {
+            "title": "Grid Item",
+            "link": "https://www.w3schools.com/css/css_grid_item.asp",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "CSS SASS",
+        "link": "https://www.w3schools.com/sass/default.php",
+        "children": [
+          {
+            "title": "SASS Tutorial",
+            "link": "https://www.w3schools.com/sass/default.php",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "CSS Examples",
+        "link": "https://www.w3schools.com/css/css_templates.asp",
+        "children": [
+          {
+            "title": "CSS Templates",
+            "link": "https://www.w3schools.com/css/css_templates.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Examples",
+            "link": "https://www.w3schools.com/css/css_examples.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Editor",
+            "link": "https://www.w3schools.com/css/css_editor.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Snippets",
+            "link": "https://www.w3schools.com/css/css_snippets.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Quiz",
+            "link": "https://www.w3schools.com/css/css_quiz.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Exercises",
+            "link": "https://www.w3schools.com/css/css_exercises.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Website",
+            "link": "https://www.w3schools.com/css/css_website.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Bootcamp",
+            "link": "https://www.w3schools.com/css/css_bootcamp.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Certificate",
+            "link": "https://www.w3schools.com/css/css_exam.asp",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "CSS References",
+        "link": "https://www.w3schools.com/cssref/default.asp",
+        "children": [
+          {
+            "title": "CSS Reference",
+            "link": "https://www.w3schools.com/cssref/default.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Selectors",
+            "link": "https://www.w3schools.com/cssref/css_selectors.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Functions",
+            "link": "https://www.w3schools.com/cssref/css_functions.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Reference Aural",
+            "link": "https://www.w3schools.com/cssref/css_ref_aural.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Web Safe Fonts",
+            "link": "https://www.w3schools.com/cssref/css_websafe_fonts.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Animatable",
+            "link": "https://www.w3schools.com/cssref/css_animatable.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Units",
+            "link": "https://www.w3schools.com/cssref/css_units.asp",
+            "children": []
+          },
+          {
+            "title": "CSS PX-EM Converter",
+            "link": "https://www.w3schools.com/cssref/css_pxtoemconversion.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Colors",
+            "link": "https://www.w3schools.com/cssref/css_colors.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Color Values",
+            "link": "https://www.w3schools.com/cssref/css_colors_legal.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Default Values",
+            "link": "https://www.w3schools.com/cssref/css_default_values.asp",
+            "children": []
+          },
+          {
+            "title": "CSS Browser Support",
+            "link": "https://www.w3schools.com/cssref/css3_browsersupport.asp",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "JAVASCRIPT",
+    "link": "https://www.w3schools.com/js/default.asp",
+    "children": [
+      {
+        "title": "JS Tutorial",
+        "link": "https://www.w3schools.com/js/default.asp",
+        "children": [
+          {
+            "title": "JS HOME",
+            "link": "https://www.w3schools.com/js/default.asp",
+            "children": []
+          },
+          {
+            "title": "JS Introduction",
+            "link": "https://www.w3schools.com/js/js_intro.asp",
+            "children": []
+          },
+          {
+            "title": "JS Where To",
+            "link": "https://www.w3schools.com/js/js_whereto.asp",
+            "children": []
+          },
+          {
+            "title": "JS Output",
+            "link": "https://www.w3schools.com/js/js_output.asp",
+            "children": []
+          },
+          {
+            "title": "JS Statements",
+            "link": "https://www.w3schools.com/js/js_statements.asp",
+            "children": []
+          },
+          {
+            "title": "JS Syntax",
+            "link": "https://www.w3schools.com/js/js_syntax.asp",
+            "children": []
+          },
+          {
+            "title": "JS Comments",
+            "link": "https://www.w3schools.com/js/js_comments.asp",
+            "children": []
+          },
+          {
+            "title": "JS Variables",
+            "link": "https://www.w3schools.com/js/js_variables.asp",
+            "children": []
+          },
+          {
+            "title": "JS Let",
+            "link": "https://www.w3schools.com/js/js_let.asp",
+            "children": []
+          },
+          {
+            "title": "JS Const",
+            "link": "https://www.w3schools.com/js/js_const.asp",
+            "children": []
+          },
+          {
+            "title": "JS Operators",
+            "link": "https://www.w3schools.com/js/js_operators.asp",
+            "children": []
+          },
+          {
+            "title": "JS Arithmetic",
+            "link": "https://www.w3schools.com/js/js_arithmetic.asp",
+            "children": []
+          },
+          {
+            "title": "JS Assignment",
+            "link": "https://www.w3schools.com/js/js_assignment.asp",
+            "children": []
+          },
+          {
+            "title": "JS Data Types",
+            "link": "https://www.w3schools.com/js/js_datatypes.asp",
+            "children": []
+          },
+          {
+            "title": "JS Functions",
+            "link": "https://www.w3schools.com/js/js_functions.asp",
+            "children": []
+          },
+          {
+            "title": "JS Objects",
+            "link": "https://www.w3schools.com/js/js_objects.asp",
+            "children": []
+          },
+          {
+            "title": "JS Events",
+            "link": "https://www.w3schools.com/js/js_events.asp",
+            "children": []
+          },
+          {
+            "title": "JS Strings",
+            "link": "https://www.w3schools.com/js/js_strings.asp",
+            "children": []
+          },
+          {
+            "title": "JS String Methods",
+            "link": "https://www.w3schools.com/js/js_string_methods.asp",
+            "children": []
+          },
+          {
+            "title": "JS String Search",
+            "link": "https://www.w3schools.com/js/js_string_search.asp",
+            "children": []
+          },
+          {
+            "title": "JS String Templates",
+            "link": "https://www.w3schools.com/js/js_string_templates.asp",
+            "children": []
+          },
+          {
+            "title": "JS Numbers",
+            "link": "https://www.w3schools.com/js/js_numbers.asp",
+            "children": []
+          },
+          {
+            "title": "JS BigInt",
+            "link": "https://www.w3schools.com/js/js_bigint.asp",
+            "children": []
+          },
+          {
+            "title": "JS Number Methods",
+            "link": "https://www.w3schools.com/js/js_number_methods.asp",
+            "children": []
+          },
+          {
+            "title": "JS Number Properties",
+            "link": "https://www.w3schools.com/js/js_number_properties.asp",
+            "children": []
+          },
+          {
+            "title": "JS Arrays",
+            "link": "https://www.w3schools.com/js/js_arrays.asp",
+            "children": []
+          },
+          {
+            "title": "JS Array Methods",
+            "link": "https://www.w3schools.com/js/js_array_methods.asp",
+            "children": []
+          },
+          {
+            "title": "JS Array Sort",
+            "link": "https://www.w3schools.com/js/js_array_sort.asp",
+            "children": []
+          },
+          {
+            "title": "JS Array Iteration",
+            "link": "https://www.w3schools.com/js/js_array_iteration.asp",
+            "children": []
+          },
+          {
+            "title": "JS Array Const",
+            "link": "https://www.w3schools.com/js/js_array_const.asp",
+            "children": []
+          },
+          {
+            "title": "JS Dates",
+            "link": "https://www.w3schools.com/js/js_dates.asp",
+            "children": []
+          },
+          {
+            "title": "JS Date Formats",
+            "link": "https://www.w3schools.com/js/js_date_formats.asp",
+            "children": []
+          },
+          {
+            "title": "JS Date Get Methods",
+            "link": "https://www.w3schools.com/js/js_date_methods.asp",
+            "children": []
+          },
+          {
+            "title": "JS Date Set Methods",
+            "link": "https://www.w3schools.com/js/js_date_methods_set.asp",
+            "children": []
+          },
+          {
+            "title": "JS Math",
+            "link": "https://www.w3schools.com/js/js_math.asp",
+            "children": []
+          },
+          {
+            "title": "JS Random",
+            "link": "https://www.w3schools.com/js/js_random.asp",
+            "children": []
+          },
+          {
+            "title": "JS Booleans",
+            "link": "https://www.w3schools.com/js/js_booleans.asp",
+            "children": []
+          },
+          {
+            "title": "JS Comparisons",
+            "link": "https://www.w3schools.com/js/js_comparisons.asp",
+            "children": []
+          },
+          {
+            "title": "JS If Else",
+            "link": "https://www.w3schools.com/js/js_if_else.asp",
+            "children": []
+          },
+          {
+            "title": "JS Switch",
+            "link": "https://www.w3schools.com/js/js_switch.asp",
+            "children": []
+          },
+          {
+            "title": "JS Loop For",
+            "link": "https://www.w3schools.com/js/js_loop_for.asp",
+            "children": []
+          },
+          {
+            "title": "JS Loop For In",
+            "link": "https://www.w3schools.com/js/js_loop_forin.asp",
+            "children": []
+          },
+          {
+            "title": "JS Loop For Of",
+            "link": "https://www.w3schools.com/js/js_loop_forof.asp",
+            "children": []
+          },
+          {
+            "title": "JS Loop While",
+            "link": "https://www.w3schools.com/js/js_loop_while.asp",
+            "children": []
+          },
+          {
+            "title": "JS Break",
+            "link": "https://www.w3schools.com/js/js_break.asp",
+            "children": []
+          },
+          {
+            "title": "JS Iterables",
+            "link": "https://www.w3schools.com/js/js_iterables.asp",
+            "children": []
+          },
+          {
+            "title": "JS Sets",
+            "link": "https://www.w3schools.com/js/js_sets.asp",
+            "children": []
+          },
+          {
+            "title": "JS Maps",
+            "link": "https://www.w3schools.com/js/js_maps.asp",
+            "children": []
+          },
+          {
+            "title": "JS Typeof",
+            "link": "https://www.w3schools.com/js/js_typeof.asp",
+            "children": []
+          },
+          {
+            "title": "JS Type Conversion",
+            "link": "https://www.w3schools.com/js/js_type_conversion.asp",
+            "children": []
+          },
+          {
+            "title": "JS Bitwise",
+            "link": "https://www.w3schools.com/js/js_bitwise.asp",
+            "children": []
+          },
+          {
+            "title": "JS RegExp",
+            "link": "https://www.w3schools.com/js/js_regexp.asp",
+            "children": []
+          },
+          {
+            "title": "JS Precedence",
+            "link": "https://www.w3schools.com/js/js_precedence.asp",
+            "children": []
+          },
+          {
+            "title": "JS Errors",
+            "link": "https://www.w3schools.com/js/js_errors.asp",
+            "children": []
+          },
+          {
+            "title": "JS Scope",
+            "link": "https://www.w3schools.com/js/js_scope.asp",
+            "children": []
+          },
+          {
+            "title": "JS Hoisting",
+            "link": "https://www.w3schools.com/js/js_hoisting.asp",
+            "children": []
+          },
+          {
+            "title": "JS Strict Mode",
+            "link": "https://www.w3schools.com/js/js_strict.asp",
+            "children": []
+          },
+          {
+            "title": "JS this Keyword",
+            "link": "https://www.w3schools.com/js/js_this.asp",
+            "children": []
+          },
+          {
+            "title": "JS Arrow Function",
+            "link": "https://www.w3schools.com/js/js_arrow_function.asp",
+            "children": []
+          },
+          {
+            "title": "JS Classes",
+            "link": "https://www.w3schools.com/js/js_classes.asp",
+            "children": []
+          },
+          {
+            "title": "JS Modules",
+            "link": "https://www.w3schools.com/js/js_modules.asp",
+            "children": []
+          },
+          {
+            "title": "JS JSON",
+            "link": "https://www.w3schools.com/js/js_json.asp",
+            "children": []
+          },
+          {
+            "title": "JS Debugging",
+            "link": "https://www.w3schools.com/js/js_debugging.asp",
+            "children": []
+          },
+          {
+            "title": "JS Style Guide",
+            "link": "https://www.w3schools.com/js/js_conventions.asp",
+            "children": []
+          },
+          {
+            "title": "JS Best Practices",
+            "link": "https://www.w3schools.com/js/js_best_practices.asp",
+            "children": []
+          },
+          {
+            "title": "JS Mistakes",
+            "link": "https://www.w3schools.com/js/js_mistakes.asp",
+            "children": []
+          },
+          {
+            "title": "JS Performance",
+            "link": "https://www.w3schools.com/js/js_performance.asp",
+            "children": []
+          },
+          {
+            "title": "JS Reserved Words",
+            "link": "https://www.w3schools.com/js/js_reserved.asp",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "JS Versions",
+        "link": "https://www.w3schools.com/js/js_versions.asp",
+        "children": [
+          {
+            "title": "JS Versions",
+            "link": "https://www.w3schools.com/js/js_versions.asp",
+            "children": []
+          },
+          {
+            "title": "JS 2009 (ES5)",
+            "link": "https://www.w3schools.com/js/js_es5.asp",
+            "children": []
+          },
+          {
+            "title": "JS 2015 (ES6)",
+            "link": "https://www.w3schools.com/js/js_es6.asp",
+            "children": []
+          },
+          {
+            "title": "JS 2016",
+            "link": "https://www.w3schools.com/js/js_2016.asp",
+            "children": []
+          },
+          {
+            "title": "JS 2017",
+            "link": "https://www.w3schools.com/js/js_2017.asp",
+            "children": []
+          },
+          {
+            "title": "JS 2018",
+            "link": "https://www.w3schools.com/js/js_2018.asp",
+            "children": []
+          },
+          {
+            "title": "JS 2019",
+            "link": "https://www.w3schools.com/js/js_2019.asp",
+            "children": []
+          },
+          {
+            "title": "JS 2020",
+            "link": "https://www.w3schools.com/js/js_2020.asp",
+            "children": []
+          },
+          {
+            "title": "JS 2021",
+            "link": "https://www.w3schools.com/js/js_2021.asp",
+            "children": []
+          },
+          {
+            "title": "JS 2022",
+            "link": "https://www.w3schools.com/js/js_2022.asp",
+            "children": []
+          },
+          {
+            "title": "JS 2023",
+            "link": "https://www.w3schools.com/js/js_2023.asp",
+            "children": []
+          },
+          {
+            "title": "JS IE / Edge",
+            "link": "https://www.w3schools.com/js/js_ie_edge.asp",
+            "children": []
+          },
+          {
+            "title": "JS History",
+            "link": "https://www.w3schools.com/js/js_history.asp",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "JS Objects",
+        "link": "https://www.w3schools.com/js/js_object_definition.asp",
+        "children": [
+          {
+            "title": "Object Definitions",
+            "link": "https://www.w3schools.com/js/js_object_definition.asp",
+            "children": []
+          },
+          {
+            "title": "Object Properties",
+            "link": "https://www.w3schools.com/js/js_object_properties.asp",
+            "children": []
+          },
+          {
+            "title": "Object Methods",
+            "link": "https://www.w3schools.com/js/js_object_methods.asp",
+            "children": []
+          },
+          {
+            "title": "Object Display",
+            "link": "https://www.w3schools.com/js/js_object_display.asp",
+            "children": []
+          },
+          {
+            "title": "Object Accessors",
+            "link": "https://www.w3schools.com/js/js_object_accessors.asp",
+            "children": []
+          },
+          {
+            "title": "Object Constructors",
+            "link": "https://www.w3schools.com/js/js_object_constructors.asp",
+            "children": []
+          },
+          {
+            "title": "Object Prototypes",
+            "link": "https://www.w3schools.com/js/js_object_prototypes.asp",
+            "children": []
+          },
+          {
+            "title": "Object Iterables",
+            "link": "https://www.w3schools.com/js/js_object_iterables.asp",
+            "children": []
+          },
+          {
+            "title": "Object Sets",
+            "link": "https://www.w3schools.com/js/js_object_sets.asp",
+            "children": []
+          },
+          {
+            "title": "Object Maps",
+            "link": "https://www.w3schools.com/js/js_object_maps.asp",
+            "children": []
+          },
+          {
+            "title": "Object Reference",
+            "link": "https://www.w3schools.com/js/js_object_es5.asp",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "JS Functions",
+        "link": "https://www.w3schools.com/js/js_function_definition.asp",
+        "children": [
+          {
+            "title": "Function Definitions",
+            "link": "https://www.w3schools.com/js/js_function_definition.asp",
+            "children": []
+          },
+          {
+            "title": "Function Parameters",
+            "link": "https://www.w3schools.com/js/js_function_parameters.asp",
+            "children": []
+          },
+          {
+            "title": "Function Invocation",
+            "link": "https://www.w3schools.com/js/js_function_invocation.asp",
+            "children": []
+          },
+          {
+            "title": "Function Call",
+            "link": "https://www.w3schools.com/js/js_function_call.asp",
+            "children": []
+          },
+          {
+            "title": "Function Apply",
+            "link": "https://www.w3schools.com/js/js_function_apply.asp",
+            "children": []
+          },
+          {
+            "title": "Function Bind",
+            "link": "https://www.w3schools.com/js/js_function_bind.asp",
+            "children": []
+          },
+          {
+            "title": "Function Closures",
+            "link": "https://www.w3schools.com/js/js_function_closures.asp",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "JS Classes",
+        "link": "https://www.w3schools.com/js/js_class_intro.asp",
+        "children": [
+          {
+            "title": "Class Intro",
+            "link": "https://www.w3schools.com/js/js_class_intro.asp",
+            "children": []
+          },
+          {
+            "title": "Class Inheritance",
+            "link": "https://www.w3schools.com/js/js_class_inheritance.asp",
+            "children": []
+          },
+          {
+            "title": "Class Static",
+            "link": "https://www.w3schools.com/js/js_class_static.asp",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "JS Async",
+        "link": "https://www.w3schools.com/js/js_callback.asp",
+        "children": [
+          {
+            "title": "JS Callbacks",
+            "link": "https://www.w3schools.com/js/js_callback.asp",
+            "children": []
+          },
+          {
+            "title": "JS Asynchronous",
+            "link": "https://www.w3schools.com/js/js_asynchronous.asp",
+            "children": []
+          },
+          {
+            "title": "JS Promises",
+            "link": "https://www.w3schools.com/js/js_promise.asp",
+            "children": []
+          },
+          {
+            "title": "JS Async/Await",
+            "link": "https://www.w3schools.com/js/js_async.asp",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "JS HTML DOM",
+        "link": "https://www.w3schools.com/js/js_htmldom.asp",
+        "children": [
+          {
+            "title": "DOM Intro",
+            "link": "https://www.w3schools.com/js/js_htmldom.asp",
+            "children": []
+          },
+          {
+            "title": "DOM Methods",
+            "link": "https://www.w3schools.com/js/js_htmldom_methods.asp",
+            "children": []
+          },
+          {
+            "title": "DOM Document",
+            "link": "https://www.w3schools.com/js/js_htmldom_document.asp",
+            "children": []
+          },
+          {
+            "title": "DOM Elements",
+            "link": "https://www.w3schools.com/js/js_htmldom_elements.asp",
+            "children": []
+          },
+          {
+            "title": "DOM HTML",
+            "link": "https://www.w3schools.com/js/js_htmldom_html.asp",
+            "children": []
+          },
+          {
+            "title": "DOM Forms",
+            "link": "https://www.w3schools.com/js/js_validation.asp",
+            "children": []
+          },
+          {
+            "title": "DOM CSS",
+            "link": "https://www.w3schools.com/js/js_htmldom_css.asp",
+            "children": []
+          },
+          {
+            "title": "DOM Animations",
+            "link": "https://www.w3schools.com/js/js_htmldom_animate.asp",
+            "children": []
+          },
+          {
+            "title": "DOM Events",
+            "link": "https://www.w3schools.com/js/js_htmldom_events.asp",
+            "children": []
+          },
+          {
+            "title": "DOM Event Listener",
+            "link": "https://www.w3schools.com/js/js_htmldom_eventlistener.asp",
+            "children": []
+          },
+          {
+            "title": "DOM Navigation",
+            "link": "https://www.w3schools.com/js/js_htmldom_navigation.asp",
+            "children": []
+          },
+          {
+            "title": "DOM Nodes",
+            "link": "https://www.w3schools.com/js/js_htmldom_nodes.asp",
+            "children": []
+          },
+          {
+            "title": "DOM Collections",
+            "link": "https://www.w3schools.com/js/js_htmldom_collections.asp",
+            "children": []
+          },
+          {
+            "title": "DOM Node Lists",
+            "link": "https://www.w3schools.com/js/js_htmldom_nodelist.asp",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "JS Browser BOM",
+        "link": "https://www.w3schools.com/js/js_window.asp",
+        "children": [
+          {
+            "title": "JS Window",
+            "link": "https://www.w3schools.com/js/js_window.asp",
+            "children": []
+          },
+          {
+            "title": "JS Screen",
+            "link": "https://www.w3schools.com/js/js_window_screen.asp",
+            "children": []
+          },
+          {
+            "title": "JS Location",
+            "link": "https://www.w3schools.com/js/js_window_location.asp",
+            "children": []
+          },
+          {
+            "title": "JS History",
+            "link": "https://www.w3schools.com/js/js_window_history.asp",
+            "children": []
+          },
+          {
+            "title": "JS Navigator",
+            "link": "https://www.w3schools.com/js/js_window_navigator.asp",
+            "children": []
+          },
+          {
+            "title": "JS Popup Alert",
+            "link": "https://www.w3schools.com/js/js_popup.asp",
+            "children": []
+          },
+          {
+            "title": "JS Timing",
+            "link": "https://www.w3schools.com/js/js_timing.asp",
+            "children": []
+          },
+          {
+            "title": "JS Cookies",
+            "link": "https://www.w3schools.com/js/js_cookies.asp",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "JS Web APIs",
+        "link": "https://www.w3schools.com/js/js_api_intro.asp",
+        "children": [
+          {
+            "title": "Web API Intro",
+            "link": "https://www.w3schools.com/js/js_api_intro.asp",
+            "children": []
+          },
+          {
+            "title": "Web Forms API",
+            "link": "https://www.w3schools.com/js/js_validation_api.asp",
+            "children": []
+          },
+          {
+            "title": "Web History API",
+            "link": "https://www.w3schools.com/js/js_api_history.asp",
+            "children": []
+          },
+          {
+            "title": "Web Storage API",
+            "link": "https://www.w3schools.com/js/js_api_web_storage.asp",
+            "children": []
+          },
+          {
+            "title": "Web Worker API",
+            "link": "https://www.w3schools.com/js/js_api_web_workers.asp",
+            "children": []
+          },
+          {
+            "title": "Web Fetch API",
+            "link": "https://www.w3schools.com/js/js_api_fetch.asp",
+            "children": []
+          },
+          {
+            "title": "Web Geolocation API",
+            "link": "https://www.w3schools.com/js/js_api_geolocation.asp",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "JS AJAX",
+        "link": "https://www.w3schools.com/js/js_ajax_intro.asp",
+        "children": [
+          {
+            "title": "AJAX Intro",
+            "link": "https://www.w3schools.com/js/js_ajax_intro.asp",
+            "children": []
+          },
+          {
+            "title": "AJAX XMLHttp",
+            "link": "https://www.w3schools.com/js/js_ajax_http.asp",
+            "children": []
+          },
+          {
+            "title": "AJAX Request",
+            "link": "https://www.w3schools.com/js/js_ajax_http_send.asp",
+            "children": []
+          },
+          {
+            "title": "AJAX Response",
+            "link": "https://www.w3schools.com/js/js_ajax_http_response.asp",
+            "children": []
+          },
+          {
+            "title": "AJAX XML File",
+            "link": "https://www.w3schools.com/js/js_ajax_xmlfile.asp",
+            "children": []
+          },
+          {
+            "title": "AJAX PHP",
+            "link": "https://www.w3schools.com/js/js_ajax_php.asp",
+            "children": []
+          },
+          {
+            "title": "AJAX ASP",
+            "link": "https://www.w3schools.com/js/js_ajax_asp.asp",
+            "children": []
+          },
+          {
+            "title": "AJAX Database",
+            "link": "https://www.w3schools.com/js/js_ajax_database.asp",
+            "children": []
+          },
+          {
+            "title": "AJAX Applications",
+            "link": "https://www.w3schools.com/js/js_ajax_applications.asp",
+            "children": []
+          },
+          {
+            "title": "AJAX Examples",
+            "link": "https://www.w3schools.com/js/js_ajax_examples.asp",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "JS JSON",
+        "link": "https://www.w3schools.com/js/js_json_intro.asp",
+        "children": [
+          {
+            "title": "JSON Intro",
+            "link": "https://www.w3schools.com/js/js_json_intro.asp",
+            "children": []
+          },
+          {
+            "title": "JSON Syntax",
+            "link": "https://www.w3schools.com/js/js_json_syntax.asp",
+            "children": []
+          },
+          {
+            "title": "JSON vs XML",
+            "link": "https://www.w3schools.com/js/js_json_xml.asp",
+            "children": []
+          },
+          {
+            "title": "JSON Data Types",
+            "link": "https://www.w3schools.com/js/js_json_datatypes.asp",
+            "children": []
+          },
+          {
+            "title": "JSON Parse",
+            "link": "https://www.w3schools.com/js/js_json_parse.asp",
+            "children": []
+          },
+          {
+            "title": "JSON Stringify",
+            "link": "https://www.w3schools.com/js/js_json_stringify.asp",
+            "children": []
+          },
+          {
+            "title": "JSON Objects",
+            "link": "https://www.w3schools.com/js/js_json_objects.asp",
+            "children": []
+          },
+          {
+            "title": "JSON Arrays",
+            "link": "https://www.w3schools.com/js/js_json_arrays.asp",
+            "children": []
+          },
+          {
+            "title": "JSON Server",
+            "link": "https://www.w3schools.com/js/js_json_server.asp",
+            "children": []
+          },
+          {
+            "title": "JSON PHP",
+            "link": "https://www.w3schools.com/js/js_json_php.asp",
+            "children": []
+          },
+          {
+            "title": "JSON HTML",
+            "link": "https://www.w3schools.com/js/js_json_html.asp",
+            "children": []
+          },
+          {
+            "title": "JSON JSONP",
+            "link": "https://www.w3schools.com/js/js_json_jsonp.asp",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "JS vs jQuery",
+        "link": "https://www.w3schools.com/js/js_jquery_selectors.asp",
+        "children": [
+          {
+            "title": "jQuery Selectors",
+            "link": "https://www.w3schools.com/js/js_jquery_selectors.asp",
+            "children": []
+          },
+          {
+            "title": "jQuery HTML",
+            "link": "https://www.w3schools.com/js/js_jquery_elements.asp",
+            "children": []
+          },
+          {
+            "title": "jQuery CSS",
+            "link": "https://www.w3schools.com/js/js_jquery_css.asp",
+            "children": []
+          },
+          {
+            "title": "jQuery DOM",
+            "link": "https://www.w3schools.com/js/js_jquery_dom.asp",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "JS Graphics",
+        "link": "https://www.w3schools.com/js/js_graphics.asp",
+        "children": [
+          {
+            "title": "JS Graphics",
+            "link": "https://www.w3schools.com/js/js_graphics.asp",
+            "children": []
+          },
+          {
+            "title": "JS Canvas",
+            "link": "https://www.w3schools.com/js/js_graphics_canvas.asp",
+            "children": []
+          },
+          {
+            "title": "JS Plotly",
+            "link": "https://www.w3schools.com/js/js_graphics_plotly.asp",
+            "children": []
+          },
+          {
+            "title": "JS Chart.js",
+            "link": "https://www.w3schools.com/js/js_graphics_chartjs.asp",
+            "children": []
+          },
+          {
+            "title": "JS Google Chart",
+            "link": "https://www.w3schools.com/js/js_graphics_google_chart.asp",
+            "children": []
+          },
+          {
+            "title": "JS D3.js",
+            "link": "https://www.w3schools.com/js/js_graphics_d3js.asp",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "JS Examples",
+        "link": "https://www.w3schools.com/js/js_examples.asp",
+        "children": [
+          {
+            "title": "JS Examples",
+            "link": "https://www.w3schools.com/js/js_examples.asp",
+            "children": []
+          },
+          {
+            "title": "JS HTML DOM",
+            "link": "https://www.w3schools.com/js/js_dom_examples.asp",
+            "children": []
+          },
+          {
+            "title": "JS HTML Input",
+            "link": "https://www.w3schools.com/js/js_input_examples.asp",
+            "children": []
+          },
+          {
+            "title": "JS HTML Objects",
+            "link": "https://www.w3schools.com/js/js_ex_dom.asp",
+            "children": []
+          },
+          {
+            "title": "JS HTML Events",
+            "link": "https://www.w3schools.com/js/js_events_examples.asp",
+            "children": []
+          },
+          {
+            "title": "JS Browser",
+            "link": "https://www.w3schools.com/js/js_ex_browser.asp",
+            "children": []
+          },
+          {
+            "title": "JS Editor",
+            "link": "https://www.w3schools.com/js/js_editor.asp",
+            "children": []
+          },
+          {
+            "title": "JS Exercises",
+            "link": "https://www.w3schools.com/js/js_exercises.asp",
+            "children": []
+          },
+          {
+            "title": "JS Quiz",
+            "link": "https://www.w3schools.com/js/js_quiz.asp",
+            "children": []
+          },
+          {
+            "title": "JS Website",
+            "link": "https://www.w3schools.com/js/js_website.asp",
+            "children": []
+          },
+          {
+            "title": "JS Bootcamp",
+            "link": "https://www.w3schools.com/js/js_bootcamp.asp",
+            "children": []
+          },
+          {
+            "title": "JS Certificate",
+            "link": "https://www.w3schools.com/js/js_exam.asp",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "JS References",
+        "link": "https://www.w3schools.com/jsref/default.asp",
+        "children": [
+          {
+            "title": "JavaScript Objects",
+            "link": "https://www.w3schools.com/jsref/default.asp",
+            "children": []
+          },
+          {
+            "title": "HTML DOM Objects",
+            "link": "https://www.w3schools.com/jsref/default.asp",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "PYTHON",
+    "link": "https://www.w3schools.com/python/default.asp",
+    "children": [
+      {
+        "title": "Python Tutorial",
+        "link": "https://www.w3schools.com/python/default.asp",
+        "children": [
+          {
+            "title": "Python HOME",
+            "link": "https://www.w3schools.com/python/default.asp",
+            "children": []
+          },
+          {
+            "title": "Python Intro",
+            "link": "https://www.w3schools.com/python/python_intro.asp",
+            "children": []
+          },
+          {
+            "title": "Python Get Started",
+            "link": "https://www.w3schools.com/python/python_getstarted.asp",
+            "children": []
+          },
+          {
+            "title": "Python Syntax",
+            "link": "https://www.w3schools.com/python/python_syntax.asp",
+            "children": []
+          },
+          {
+            "title": "Python Comments",
+            "link": "https://www.w3schools.com/python/python_comments.asp",
+            "children": []
+          },
+          {
+            "title": "Python Variables",
+            "link": "https://www.w3schools.com/python/python_variables.asp",
+            "children": []
+          },
+          {
+            "title": "Python Data Types",
+            "link": "https://www.w3schools.com/python/python_datatypes.asp",
+            "children": []
+          },
+          {
+            "title": "Python Numbers",
+            "link": "https://www.w3schools.com/python/python_numbers.asp",
+            "children": []
+          },
+          {
+            "title": "Python Casting",
+            "link": "https://www.w3schools.com/python/python_casting.asp",
+            "children": []
+          },
+          {
+            "title": "Python Strings",
+            "link": "https://www.w3schools.com/python/python_strings.asp",
+            "children": []
+          },
+          {
+            "title": "Python Booleans",
+            "link": "https://www.w3schools.com/python/python_booleans.asp",
+            "children": []
+          },
+          {
+            "title": "Python Operators",
+            "link": "https://www.w3schools.com/python/python_operators.asp",
+            "children": []
+          },
+          {
+            "title": "Python Lists",
+            "link": "https://www.w3schools.com/python/python_lists.asp",
+            "children": []
+          },
+          {
+            "title": "Python Tuples",
+            "link": "https://www.w3schools.com/python/python_tuples.asp",
+            "children": []
+          },
+          {
+            "title": "Python Sets",
+            "link": "https://www.w3schools.com/python/python_sets.asp",
+            "children": []
+          },
+          {
+            "title": "Python Dictionaries",
+            "link": "https://www.w3schools.com/python/python_dictionaries.asp",
+            "children": []
+          },
+          {
+            "title": "Python If...Else",
+            "link": "https://www.w3schools.com/python/python_conditions.asp",
+            "children": []
+          },
+          {
+            "title": "Python While Loops",
+            "link": "https://www.w3schools.com/python/python_while_loops.asp",
+            "children": []
+          },
+          {
+            "title": "Python For Loops",
+            "link": "https://www.w3schools.com/python/python_for_loops.asp",
+            "children": []
+          },
+          {
+            "title": "Python Functions",
+            "link": "https://www.w3schools.com/python/python_functions.asp",
+            "children": []
+          },
+          {
+            "title": "Python Lambda",
+            "link": "https://www.w3schools.com/python/python_lambda.asp",
+            "children": []
+          },
+          {
+            "title": "Python Arrays",
+            "link": "https://www.w3schools.com/python/python_arrays.asp",
+            "children": []
+          },
+          {
+            "title": "Python Classes/Objects",
+            "link": "https://www.w3schools.com/python/python_classes.asp",
+            "children": []
+          },
+          {
+            "title": "Python Inheritance",
+            "link": "https://www.w3schools.com/python/python_inheritance.asp",
+            "children": []
+          },
+          {
+            "title": "Python Iterators",
+            "link": "https://www.w3schools.com/python/python_iterators.asp",
+            "children": []
+          },
+          {
+            "title": "Python Polymorphism",
+            "link": "https://www.w3schools.com/python/python_polymorphism.asp",
+            "children": []
+          },
+          {
+            "title": "Python Scope",
+            "link": "https://www.w3schools.com/python/python_scope.asp",
+            "children": []
+          },
+          {
+            "title": "Python Modules",
+            "link": "https://www.w3schools.com/python/python_modules.asp",
+            "children": []
+          },
+          {
+            "title": "Python Dates",
+            "link": "https://www.w3schools.com/python/python_datetime.asp",
+            "children": []
+          },
+          {
+            "title": "Python Math",
+            "link": "https://www.w3schools.com/python/python_math.asp",
+            "children": []
+          },
+          {
+            "title": "Python JSON",
+            "link": "https://www.w3schools.com/python/python_json.asp",
+            "children": []
+          },
+          {
+            "title": "Python RegEx",
+            "link": "https://www.w3schools.com/python/python_regex.asp",
+            "children": []
+          },
+          {
+            "title": "Python PIP",
+            "link": "https://www.w3schools.com/python/python_pip.asp",
+            "children": []
+          },
+          {
+            "title": "Python Try...Except",
+            "link": "https://www.w3schools.com/python/python_try_except.asp",
+            "children": []
+          },
+          {
+            "title": "Python User Input",
+            "link": "https://www.w3schools.com/python/python_user_input.asp",
+            "children": []
+          },
+          {
+            "title": "Python String Formatting",
+            "link": "https://www.w3schools.com/python/python_string_formatting.asp",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "File Handling",
+        "link": "https://www.w3schools.com/python/python_file_handling.asp",
+        "children": [
+          {
+            "title": "Python File Handling",
+            "link": "https://www.w3schools.com/python/python_file_handling.asp",
+            "children": []
+          },
+          {
+            "title": "Python Read Files",
+            "link": "https://www.w3schools.com/python/python_file_open.asp",
+            "children": []
+          },
+          {
+            "title": "Python Write/Create Files",
+            "link": "https://www.w3schools.com/python/python_file_write.asp",
+            "children": []
+          },
+          {
+            "title": "Python Delete Files",
+            "link": "https://www.w3schools.com/python/python_file_remove.asp",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Python Modules",
+        "link": "https://www.w3schools.com/python/numpy/default.asp",
+        "children": [
+          {
+            "title": "NumPy Tutorial",
+            "link": "https://www.w3schools.com/python/numpy/default.asp",
+            "children": []
+          },
+          {
+            "title": "Pandas Tutorial",
+            "link": "https://www.w3schools.com/python/pandas/default.asp",
+            "children": []
+          },
+          {
+            "title": "SciPy Tutorial",
+            "link": "https://www.w3schools.com/python/scipy/index.php",
+            "children": []
+          },
+          {
+            "title": "Django Tutorial",
+            "link": "https://www.w3schools.com/django/index.php",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Python Matplotlib",
+        "link": "https://www.w3schools.com/python/matplotlib_intro.asp",
+        "children": [
+          {
+            "title": "Matplotlib Intro",
+            "link": "https://www.w3schools.com/python/matplotlib_intro.asp",
+            "children": []
+          },
+          {
+            "title": "Matplotlib Get Started",
+            "link": "https://www.w3schools.com/python/matplotlib_getting_started.asp",
+            "children": []
+          },
+          {
+            "title": "Matplotlib Pyplot",
+            "link": "https://www.w3schools.com/python/matplotlib_pyplot.asp",
+            "children": []
+          },
+          {
+            "title": "Matplotlib Plotting",
+            "link": "https://www.w3schools.com/python/matplotlib_plotting.asp",
+            "children": []
+          },
+          {
+            "title": "Matplotlib Markers",
+            "link": "https://www.w3schools.com/python/matplotlib_markers.asp",
+            "children": []
+          },
+          {
+            "title": "Matplotlib Line",
+            "link": "https://www.w3schools.com/python/matplotlib_line.asp",
+            "children": []
+          },
+          {
+            "title": "Matplotlib Labels",
+            "link": "https://www.w3schools.com/python/matplotlib_labels.asp",
+            "children": []
+          },
+          {
+            "title": "Matplotlib Grid",
+            "link": "https://www.w3schools.com/python/matplotlib_grid.asp",
+            "children": []
+          },
+          {
+            "title": "Matplotlib Subplot",
+            "link": "https://www.w3schools.com/python/matplotlib_subplot.asp",
+            "children": []
+          },
+          {
+            "title": "Matplotlib Scatter",
+            "link": "https://www.w3schools.com/python/matplotlib_scatter.asp",
+            "children": []
+          },
+          {
+            "title": "Matplotlib Bars",
+            "link": "https://www.w3schools.com/python/matplotlib_bars.asp",
+            "children": []
+          },
+          {
+            "title": "Matplotlib Histograms",
+            "link": "https://www.w3schools.com/python/matplotlib_histograms.asp",
+            "children": []
+          },
+          {
+            "title": "Matplotlib Pie Charts",
+            "link": "https://www.w3schools.com/python/matplotlib_pie_charts.asp",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Machine Learning",
+        "link": "https://www.w3schools.com/python/python_ml_getting_started.asp",
+        "children": [
+          {
+            "title": "Getting Started",
+            "link": "https://www.w3schools.com/python/python_ml_getting_started.asp",
+            "children": []
+          },
+          {
+            "title": "Mean Median Mode",
+            "link": "https://www.w3schools.com/python/python_ml_mean_median_mode.asp",
+            "children": []
+          },
+          {
+            "title": "Standard Deviation",
+            "link": "https://www.w3schools.com/python/python_ml_standard_deviation.asp",
+            "children": []
+          },
+          {
+            "title": "Percentile",
+            "link": "https://www.w3schools.com/python/python_ml_percentile.asp",
+            "children": []
+          },
+          {
+            "title": "Data Distribution",
+            "link": "https://www.w3schools.com/python/python_ml_data_distribution.asp",
+            "children": []
+          },
+          {
+            "title": "Normal Data Distribution",
+            "link": "https://www.w3schools.com/python/python_ml_normal_data_distribution.asp",
+            "children": []
+          },
+          {
+            "title": "Scatter Plot",
+            "link": "https://www.w3schools.com/python/python_ml_scatterplot.asp",
+            "children": []
+          },
+          {
+            "title": "Linear Regression",
+            "link": "https://www.w3schools.com/python/python_ml_linear_regression.asp",
+            "children": []
+          },
+          {
+            "title": "Polynomial Regression",
+            "link": "https://www.w3schools.com/python/python_ml_polynomial_regression.asp",
+            "children": []
+          },
+          {
+            "title": "Multiple Regression",
+            "link": "https://www.w3schools.com/python/python_ml_multiple_regression.asp",
+            "children": []
+          },
+          {
+            "title": "Scale",
+            "link": "https://www.w3schools.com/python/python_ml_scale.asp",
+            "children": []
+          },
+          {
+            "title": "Train/Test",
+            "link": "https://www.w3schools.com/python/python_ml_train_test.asp",
+            "children": []
+          },
+          {
+            "title": "Decision Tree",
+            "link": "https://www.w3schools.com/python/python_ml_decision_tree.asp",
+            "children": []
+          },
+          {
+            "title": "Confusion Matrix",
+            "link": "https://www.w3schools.com/python/python_ml_confusion_matrix.asp",
+            "children": []
+          },
+          {
+            "title": "Hierarchical Clustering",
+            "link": "https://www.w3schools.com/python/python_ml_hierarchial_clustering.asp",
+            "children": []
+          },
+          {
+            "title": "Logistic Regression",
+            "link": "https://www.w3schools.com/python/python_ml_logistic_regression.asp",
+            "children": []
+          },
+          {
+            "title": "Grid Search",
+            "link": "https://www.w3schools.com/python/python_ml_grid_search.asp",
+            "children": []
+          },
+          {
+            "title": "Categorical Data",
+            "link": "https://www.w3schools.com/python/python_ml_preprocessing.asp",
+            "children": []
+          },
+          {
+            "title": "K-means",
+            "link": "https://www.w3schools.com/python/python_ml_k-means.asp",
+            "children": []
+          },
+          {
+            "title": "Bootstrap Aggregation",
+            "link": "https://www.w3schools.com/python/python_ml_bagging.asp",
+            "children": []
+          },
+          {
+            "title": "Cross Validation",
+            "link": "https://www.w3schools.com/python/python_ml_cross_validation.asp",
+            "children": []
+          },
+          {
+            "title": "AUC - ROC Curve",
+            "link": "https://www.w3schools.com/python/python_ml_auc_roc.asp",
+            "children": []
+          },
+          {
+            "title": "K-nearest neighbors",
+            "link": "https://www.w3schools.com/python/python_ml_knn.asp",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Python MySQL",
+        "link": "https://www.w3schools.com/python/python_mysql_getstarted.asp",
+        "children": [
+          {
+            "title": "MySQL Get Started",
+            "link": "https://www.w3schools.com/python/python_mysql_getstarted.asp",
+            "children": []
+          },
+          {
+            "title": "MySQL Create Database",
+            "link": "https://www.w3schools.com/python/python_mysql_create_db.asp",
+            "children": []
+          },
+          {
+            "title": "MySQL Create Table",
+            "link": "https://www.w3schools.com/python/python_mysql_create_table.asp",
+            "children": []
+          },
+          {
+            "title": "MySQL Insert",
+            "link": "https://www.w3schools.com/python/python_mysql_insert.asp",
+            "children": []
+          },
+          {
+            "title": "MySQL Select",
+            "link": "https://www.w3schools.com/python/python_mysql_select.asp",
+            "children": []
+          },
+          {
+            "title": "MySQL Where",
+            "link": "https://www.w3schools.com/python/python_mysql_where.asp",
+            "children": []
+          },
+          {
+            "title": "MySQL Order By",
+            "link": "https://www.w3schools.com/python/python_mysql_orderby.asp",
+            "children": []
+          },
+          {
+            "title": "MySQL Delete",
+            "link": "https://www.w3schools.com/python/python_mysql_delete.asp",
+            "children": []
+          },
+          {
+            "title": "MySQL Drop Table",
+            "link": "https://www.w3schools.com/python/python_mysql_drop_table.asp",
+            "children": []
+          },
+          {
+            "title": "MySQL Update",
+            "link": "https://www.w3schools.com/python/python_mysql_update.asp",
+            "children": []
+          },
+          {
+            "title": "MySQL Limit",
+            "link": "https://www.w3schools.com/python/python_mysql_limit.asp",
+            "children": []
+          },
+          {
+            "title": "MySQL Join",
+            "link": "https://www.w3schools.com/python/python_mysql_join.asp",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Python MongoDB",
+        "link": "https://www.w3schools.com/python/python_mongodb_getstarted.asp",
+        "children": [
+          {
+            "title": "MongoDB Get Started",
+            "link": "https://www.w3schools.com/python/python_mongodb_getstarted.asp",
+            "children": []
+          },
+          {
+            "title": "MongoDB Create Database",
+            "link": "https://www.w3schools.com/python/python_mongodb_create_db.asp",
+            "children": []
+          },
+          {
+            "title": "MongoDB Create Collection",
+            "link": "https://www.w3schools.com/python/python_mongodb_create_collection.asp",
+            "children": []
+          },
+          {
+            "title": "MongoDB Insert",
+            "link": "https://www.w3schools.com/python/python_mongodb_insert.asp",
+            "children": []
+          },
+          {
+            "title": "MongoDB Find",
+            "link": "https://www.w3schools.com/python/python_mongodb_find.asp",
+            "children": []
+          },
+          {
+            "title": "MongoDB Query",
+            "link": "https://www.w3schools.com/python/python_mongodb_query.asp",
+            "children": []
+          },
+          {
+            "title": "MongoDB Sort",
+            "link": "https://www.w3schools.com/python/python_mongodb_sort.asp",
+            "children": []
+          },
+          {
+            "title": "MongoDB Delete",
+            "link": "https://www.w3schools.com/python/python_mongodb_delete.asp",
+            "children": []
+          },
+          {
+            "title": "MongoDB Drop Collection",
+            "link": "https://www.w3schools.com/python/python_mongodb_drop_collection.asp",
+            "children": []
+          },
+          {
+            "title": "MongoDB Update",
+            "link": "https://www.w3schools.com/python/python_mongodb_update.asp",
+            "children": []
+          },
+          {
+            "title": "MongoDB Limit",
+            "link": "https://www.w3schools.com/python/python_mongodb_limit.asp",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Python Reference",
+        "link": "https://www.w3schools.com/python/python_reference.asp",
+        "children": [
+          {
+            "title": "Python Overview",
+            "link": "https://www.w3schools.com/python/python_reference.asp",
+            "children": []
+          },
+          {
+            "title": "Python Built-in Functions",
+            "link": "https://www.w3schools.com/python/python_ref_functions.asp",
+            "children": []
+          },
+          {
+            "title": "Python String Methods",
+            "link": "https://www.w3schools.com/python/python_ref_string.asp",
+            "children": []
+          },
+          {
+            "title": "Python List Methods",
+            "link": "https://www.w3schools.com/python/python_ref_list.asp",
+            "children": []
+          },
+          {
+            "title": "Python Dictionary Methods",
+            "link": "https://www.w3schools.com/python/python_ref_dictionary.asp",
+            "children": []
+          },
+          {
+            "title": "Python Tuple Methods",
+            "link": "https://www.w3schools.com/python/python_ref_tuple.asp",
+            "children": []
+          },
+          {
+            "title": "Python Set Methods",
+            "link": "https://www.w3schools.com/python/python_ref_set.asp",
+            "children": []
+          },
+          {
+            "title": "Python File Methods",
+            "link": "https://www.w3schools.com/python/python_ref_file.asp",
+            "children": []
+          },
+          {
+            "title": "Python Keywords",
+            "link": "https://www.w3schools.com/python/python_ref_keywords.asp",
+            "children": []
+          },
+          {
+            "title": "Python Exceptions",
+            "link": "https://www.w3schools.com/python/python_ref_exceptions.asp",
+            "children": []
+          },
+          {
+            "title": "Python Glossary",
+            "link": "https://www.w3schools.com/python/python_ref_glossary.asp",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Module Reference",
+        "link": "https://www.w3schools.com/python/module_random.asp",
+        "children": [
+          {
+            "title": "Random Module",
+            "link": "https://www.w3schools.com/python/module_random.asp",
+            "children": []
+          },
+          {
+            "title": "Requests Module",
+            "link": "https://www.w3schools.com/python/module_requests.asp",
+            "children": []
+          },
+          {
+            "title": "Statistics Module",
+            "link": "https://www.w3schools.com/python/module_statistics.asp",
+            "children": []
+          },
+          {
+            "title": "Math Module",
+            "link": "https://www.w3schools.com/python/module_math.asp",
+            "children": []
+          },
+          {
+            "title": "cMath Module",
+            "link": "https://www.w3schools.com/python/module_cmath.asp",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Python How To",
+        "link": "https://www.w3schools.com/python/python_howto_remove_duplicates.asp",
+        "children": [
+          {
+            "title": "Remove List Duplicates",
+            "link": "https://www.w3schools.com/python/python_howto_remove_duplicates.asp",
+            "children": []
+          },
+          {
+            "title": "Reverse a String",
+            "link": "https://www.w3schools.com/python/python_howto_reverse_string.asp",
+            "children": []
+          },
+          {
+            "title": "Add Two Numbers",
+            "link": "https://www.w3schools.com/python/python_howto_add_two_numbers.asp",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Python Examples",
+        "link": "https://www.w3schools.com/python/python_examples.asp",
+        "children": [
+          {
+            "title": "Python Examples",
+            "link": "https://www.w3schools.com/python/python_examples.asp",
+            "children": []
+          },
+          {
+            "title": "Python Compiler",
+            "link": "https://www.w3schools.com/python/python_compiler.asp",
+            "children": []
+          },
+          {
+            "title": "Python Exercises",
+            "link": "https://www.w3schools.com/python/python_exercises.asp",
+            "children": []
+          },
+          {
+            "title": "Python Quiz",
+            "link": "https://www.w3schools.com/python/python_quiz.asp",
+            "children": []
+          },
+          {
+            "title": "Python Server",
+            "link": "https://www.w3schools.com/python/python_server.asp",
+            "children": []
+          },
+          {
+            "title": "Python Bootcamp",
+            "link": "https://www.w3schools.com/python/python_bootcamp.asp",
+            "children": []
+          },
+          {
+            "title": "Python Certificate",
+            "link": "https://www.w3schools.com/python/python_exam.asp",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "REACT",
+    "link": "https://www.w3schools.com/react/default.asp",
+    "children": [
+      {
+        "title": "React Tutorial",
+        "link": "https://www.w3schools.com/react/default.asp",
+        "children": [
+          {
+            "title": "React Home",
+            "link": "https://www.w3schools.com/react/default.asp",
+            "children": []
+          },
+          {
+            "title": "React Intro",
+            "link": "https://www.w3schools.com/react/react_intro.asp",
+            "children": []
+          },
+          {
+            "title": "React Get Started",
+            "link": "https://www.w3schools.com/react/react_getstarted.asp",
+            "children": []
+          },
+          {
+            "title": "React Upgrade",
+            "link": "https://www.w3schools.com/react/react_upgrade.asp",
+            "children": []
+          },
+          {
+            "title": "React ES6",
+            "link": "https://www.w3schools.com/react/react_es6.asp",
+            "children": []
+          },
+          {
+            "title": "React Render HTML",
+            "link": "https://www.w3schools.com/react/react_render.asp",
+            "children": []
+          },
+          {
+            "title": "React JSX",
+            "link": "https://www.w3schools.com/react/react_jsx.asp",
+            "children": []
+          },
+          {
+            "title": "React Components",
+            "link": "https://www.w3schools.com/react/react_components.asp",
+            "children": []
+          },
+          {
+            "title": "React Class",
+            "link": "https://www.w3schools.com/react/react_class.asp",
+            "children": []
+          },
+          {
+            "title": "React Props",
+            "link": "https://www.w3schools.com/react/react_props.asp",
+            "children": []
+          },
+          {
+            "title": "React Events",
+            "link": "https://www.w3schools.com/react/react_events.asp",
+            "children": []
+          },
+          {
+            "title": "React Conditionals",
+            "link": "https://www.w3schools.com/react/react_conditional_rendering.asp",
+            "children": []
+          },
+          {
+            "title": "React Lists",
+            "link": "https://www.w3schools.com/react/react_lists.asp",
+            "children": []
+          },
+          {
+            "title": "React Forms",
+            "link": "https://www.w3schools.com/react/react_forms.asp",
+            "children": []
+          },
+          {
+            "title": "React Router",
+            "link": "https://www.w3schools.com/react/react_router.asp",
+            "children": []
+          },
+          {
+            "title": "React Memo",
+            "link": "https://www.w3schools.com/react/react_memo.asp",
+            "children": []
+          },
+          {
+            "title": "React CSS Styling",
+            "link": "https://www.w3schools.com/react/react_css_styling.asp",
+            "children": []
+          },
+          {
+            "title": "React Sass Styling",
+            "link": "https://www.w3schools.com/react/react_sass_styling.asp",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "React Hooks",
+        "link": "https://www.w3schools.com/react/react_hooks.asp",
+        "children": [
+          {
+            "title": "What is a Hook?",
+            "link": "https://www.w3schools.com/react/react_hooks.asp",
+            "children": []
+          },
+          {
+            "title": "useState",
+            "link": "https://www.w3schools.com/react/react_usestate.asp",
+            "children": []
+          },
+          {
+            "title": "useEffect",
+            "link": "https://www.w3schools.com/react/react_useeffect.asp",
+            "children": []
+          },
+          {
+            "title": "useContext",
+            "link": "https://www.w3schools.com/react/react_usecontext.asp",
+            "children": []
+          },
+          {
+            "title": "useRef",
+            "link": "https://www.w3schools.com/react/react_useref.asp",
+            "children": []
+          },
+          {
+            "title": "useReducer",
+            "link": "https://www.w3schools.com/react/react_usereducer.asp",
+            "children": []
+          },
+          {
+            "title": "useCallback",
+            "link": "https://www.w3schools.com/react/react_usecallback.asp",
+            "children": []
+          },
+          {
+            "title": "useMemo",
+            "link": "https://www.w3schools.com/react/react_usememo.asp",
+            "children": []
+          },
+          {
+            "title": "Custom Hooks",
+            "link": "https://www.w3schools.com/react/react_customhooks.asp",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "React Exercises",
+        "link": "https://www.w3schools.com/react/react_compiler.asp",
+        "children": [
+          {
+            "title": "React Compiler",
+            "link": "https://www.w3schools.com/react/react_compiler.asp",
+            "children": []
+          },
+          {
+            "title": "React Quiz",
+            "link": "https://www.w3schools.com/react/react_quiz.asp",
+            "children": []
+          },
+          {
+            "title": "React Exercises",
+            "link": "https://www.w3schools.com/react/react_exercises.asp",
+            "children": []
+          },
+          {
+            "title": "React Server",
+            "link": "https://www.w3schools.com/react/react_server.asp",
+            "children": []
+          },
+          {
+            "title": "React Certificate",
+            "link": "https://www.w3schools.com/react/react_exam.asp",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "GIT",
+    "link": "https://www.w3schools.com/git/default.asp",
+    "children": [
+      {
+        "title": "Git Tutorial",
+        "link": "https://www.w3schools.com/git/default.asp?remote=github",
+        "children": [
+          {
+            "title": "Git HOME",
+            "link": "https://www.w3schools.com/git/default.asp?remote=github",
+            "children": []
+          },
+          {
+            "title": "Git Intro",
+            "link": "https://www.w3schools.com/git/git_intro.asp?remote=github",
+            "children": []
+          },
+          {
+            "title": "Git Get Started",
+            "link": "https://www.w3schools.com/git/git_getstarted.asp?remote=github",
+            "children": []
+          },
+          {
+            "title": "Git New Files",
+            "link": "https://www.w3schools.com/git/git_new_files.asp?remote=github",
+            "children": []
+          },
+          {
+            "title": "Git Staging Environment",
+            "link": "https://www.w3schools.com/git/git_staging_environment.asp?remote=github",
+            "children": []
+          },
+          {
+            "title": "Git Commit",
+            "link": "https://www.w3schools.com/git/git_commit.asp?remote=github",
+            "children": []
+          },
+          {
+            "title": "Git Help",
+            "link": "https://www.w3schools.com/git/git_help.asp?remote=github",
+            "children": []
+          },
+          {
+            "title": "Git Branch",
+            "link": "https://www.w3schools.com/git/git_branch.asp?remote=github",
+            "children": []
+          },
+          {
+            "title": "Git Branch Merge",
+            "link": "https://www.w3schools.com/git/git_branch_merge.asp?remote=github",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Git and GitHub",
+        "link": "https://www.w3schools.com/git/git_remote_getstarted.asp?remote=github",
+        "children": [
+          {
+            "title": "GitHub Get Started",
+            "link": "https://www.w3schools.com/git/git_remote_getstarted.asp?remote=github",
+            "children": []
+          },
+          {
+            "title": "GitHub Edit Code",
+            "link": "https://www.w3schools.com/git/git_remote_edit_code.asp?remote=github",
+            "children": []
+          },
+          {
+            "title": "Pull from GitHub",
+            "link": "https://www.w3schools.com/git/git_pull_from_remote.asp?remote=github",
+            "children": []
+          },
+          {
+            "title": "Push to GitHub",
+            "link": "https://www.w3schools.com/git/git_push_to_remote.asp?remote=github",
+            "children": []
+          },
+          {
+            "title": "GitHub Branch",
+            "link": "https://www.w3schools.com/git/git_remote_branch.asp?remote=github",
+            "children": []
+          },
+          {
+            "title": "Pull Branch from GitHub",
+            "link": "https://www.w3schools.com/git/git_branch_pull_from_remote.asp?remote=github",
+            "children": []
+          },
+          {
+            "title": "Push Branch to GitHub",
+            "link": "https://www.w3schools.com/git/git_branch_push_to_remote.asp?remote=github",
+            "children": []
+          },
+          {
+            "title": "GitHub Flow",
+            "link": "https://www.w3schools.com/git/git_github_flow.asp?remote=github",
+            "children": []
+          },
+          {
+            "title": "GitHub Pages",
+            "link": "https://www.w3schools.com/git/git_remote_pages.asp?remote=github",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Git Contribute",
+        "link": "https://www.w3schools.com/git/git_remote_fork.asp?remote=github",
+        "children": [
+          {
+            "title": "GitHub Fork",
+            "link": "https://www.w3schools.com/git/git_remote_fork.asp?remote=github",
+            "children": []
+          },
+          {
+            "title": "Git Clone from GitHub",
+            "link": "https://www.w3schools.com/git/git_clone.asp?remote=github",
+            "children": []
+          },
+          {
+            "title": "GitHub Send Pull Request",
+            "link": "https://www.w3schools.com/git/git_remote_send_pull_request.asp?remote=github",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Git Advanced",
+        "link": "https://www.w3schools.com/git/git_ignore.asp?remote=github",
+        "children": [
+          {
+            "title": "Git .gitignore",
+            "link": "https://www.w3schools.com/git/git_ignore.asp?remote=github",
+            "children": []
+          },
+          {
+            "title": "Git Security SSH",
+            "link": "https://www.w3schools.com/git/git_security_ssh.asp?remote=github",
+            "children": []
+          },
+          {
+            "title": "GitHub Add SSH",
+            "link": "https://www.w3schools.com/git/git_remote_add_ssh.asp?remote=github",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Git Undo",
+        "link": "https://www.w3schools.com/git/git_revert.asp?remote=github",
+        "children": [
+          {
+            "title": "Git Revert",
+            "link": "https://www.w3schools.com/git/git_revert.asp?remote=github",
+            "children": []
+          },
+          {
+            "title": "Git Reset",
+            "link": "https://www.w3schools.com/git/git_reset.asp?remote=github",
+            "children": []
+          },
+          {
+            "title": "Git Amend",
+            "link": "https://www.w3schools.com/git/git_amend.asp?remote=github",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Git Exercises",
+        "link": "https://www.w3schools.com/git/git_exercises.asp?remote=github",
+        "children": [
+          {
+            "title": "Git Exercises",
+            "link": "https://www.w3schools.com/git/git_exercises.asp?remote=github",
+            "children": []
+          },
+          {
+            "title": "Git Quiz",
+            "link": "https://www.w3schools.com/git/git_quiz.asp?remote=github",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

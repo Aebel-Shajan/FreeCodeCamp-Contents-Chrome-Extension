@@ -35,18 +35,19 @@ header {
 }
 
 main {
-	padding: 0.5rem 1rem;
+	padding: 0.5rem;
 	height: 95vh;
 	display: grid;
 	grid-template-rows: auto 1fr auto;
 	row-gap: 0.5rem;
+	width: 100%;
 }
 
 #options-container {
-	width: 95%;
+	width: 100%;
 	display: grid;
 	row-gap: 0.5rem;
-	font-size: small;
+	font-size: smaller;
 }
 .option-container {
 	display: flex;
@@ -62,7 +63,7 @@ main {
 	border: 3px solid var(--fcc-blue);
 	border-radius: 0;
 	text-decoration: none;
-	padding: 5px 1.5rem;
+	padding: 5px 1.3rem;
 	cursor: pointer;
 	font-size: inherit;
 }
@@ -79,9 +80,10 @@ input {
 	color: var(--fcc-white);
 	padding: 5px 1.5rem;
 	padding-left: 0.5rem;
-	width: auto;
+	width: calc(100% - 4.6rem);
 	border: 3px solid var(--fcc-blue);
 	border-right: none;
+	font-size: inherit;
 }
 input::placeholder {
 	color: var(--fcc-white);
@@ -113,7 +115,9 @@ input::placeholder {
 	width: 100%;
 }
 .content-text {
-	padding: 0.5rem;
+	padding: 0.32rem 0rem;
+	font-weight: 550;
+	padding-left: 0.4rem;
 	background-color: var(--fcc-grey);
 	margin: 0;
 	color: var(--fcc-blue);

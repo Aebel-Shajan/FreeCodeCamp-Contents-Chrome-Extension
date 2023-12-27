@@ -1,5 +1,6 @@
 import fcc_curriculum from './data/curriculum.json' assert { type: 'json' };
 import mdn_contents from './data/mdn_contents.json' assert {type: "json"};
+import w3schools_contents from "./data/w3schools_contents.json" assert { type: "json"};
 import resources from './data/resources.json' assert {type: 'json'};
 import openTab from "./newTabLogic.js";
 
@@ -97,6 +98,8 @@ function loadOptions() {
 				case "MDN":
 					currentContentList = mdn_contents;
 					break;
+				case "W3SCHOOLS":
+					currentContentList = w3schools_contents;
 			}
 			updateSearchList();
 		})

@@ -1,6 +1,6 @@
 {
-	"name": "Contents panel for FCC.",
-  "version": "0.0.2",
+	"name": "FreeCodeCamp Sidepanel",
+  "version": "0.0.3",
   "manifest_version": 3,
 	"description": "Uses side panel for easy access to FreeCodeCamp's curriculum.",
 	"icons": {

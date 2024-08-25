@@ -1,15 +1,29 @@
-import fcc_curriculum from './data/curriculum.json' assert { type: 'json' };
-import mdn_contents from './data/mdn_contents.json' assert {type: "json"};
-import w3schools_contents from "./data/w3schools_contents.json" assert { type: "json"};
-import resources from './data/resources.json' assert {type: 'json'};
+
 import openTab from "./newTabLogic.js";
 
+// load in data
+let fcc_curriculum = []
+await fetch('./data/curriculum.json')
+    .then((response) => response.json())
+    .then((json) => fcc_curriculum=json);
+let mdn_contents = []
+await fetch('./data/mdn_contents.json')
+    .then((response) => response.json())
+    .then((json) => mdn_contents=json);
+let w3schools_contents = []
+await fetch('./data/w3schools_contents.json')
+    .then((response) => response.json())
+    .then((json) => w3schools_contents=json);
+let resources = []
+await fetch('./data/resources.json')
+    .then((response) => response.json())
+    .then((json) => resources=json);
 
+// I can't believe i wrote this raw 😭 what was i on
 const CONTENT_LIST = document.body.querySelector("#contents-list");
 const LINK_TEMPLATE = document.body.querySelector("#link-template");
 let focusedItemIndicies = [];
 let useNumbering = () => { return document.querySelector(".numbering-toggle").id === "on" };
-console.log(useNumbering());
 let currentContentList = fcc_curriculum;
 
 function loadResourceLinks() {
